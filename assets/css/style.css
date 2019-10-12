@@ -6,6 +6,32 @@
   padding-top: 7em;
 }
 
+.related_thumb {
+      height: 200px;
+      width: 200px;
+      overflow: hidden;
+    }
+
+.related_thumb img {
+      
+       border-spacing: 15px; 
+      height: 200px;
+      width: 200px;
+      -webkit-transition: all 1s ease;
+      -moz-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+      transition: all 1s ease;
+    }
+
+
+.related_thumb img:hover {
+      transform: rotate(5grad) scale(1.2); 
+    }
+
+.related_thumb a{
+
+}
+
 .single_related button{
 height: 2em;
 text-align: center;

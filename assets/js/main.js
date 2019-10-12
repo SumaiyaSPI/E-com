@@ -648,7 +648,7 @@
     
     
     /*---categories slideToggle---*/
-    $(".categories_title").on("click", function() {
+    $(".categories_title").on("mouseover", function() {
         $(this).toggleClass('active');
         $('.categories_menu_toggle').slideToggle('medium');
     }); 
