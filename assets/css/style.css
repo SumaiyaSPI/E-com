@@ -1,3 +1,66 @@
+.product_accordian{
+ 
+  margin-top: 2em;
+  width:500px !important;
+  background-color: red;
+  margin-bottom: 2em;
+}
+
+.product_accordian button{
+ color: black !important;
+ width: 100%;
+}
+
+.cat_color{
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-top:1px solid grey !important;
+  border-bottom:1px solid grey !important;
+}
+
+.cat_color ul li a {
+      width: 34px !important;
+      height: 34px !important;
+      display: block; 
+      border-radius: 50%;
+      }
+
+#product_size>li{
+display:inline-block;
+/* border:1px solid grey; */
+width:2em;
+text-align: center;
+background-color: #EBEBEB;
+}
+
+#product_size>.selected{
+  color:white;
+  background-color: black;
+  }
+
+.product_info_list{
+  /*background-color: red;*/
+}
+
+.product_info_list .widget_sub_categories{
+  background-color: white;
+  margin-left: 2em;
+}
+
+.product_info_hr{
+width:30em;
+text-align: left;
+margin-left: 0;
+}
+
+.product_options>span{
+   background-color: white !important;
+  border: 1px solid grey;
+  margin-right: 1em;
+}
+.button>span{
+  margin-bottom:50px !important; 
+}
 /*-----------------------------------------------------------------------------------
 
     
@@ -3036,14 +3099,14 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     .section_title {
       margin-bottom: 15px; } }
   .section_title h2 {
-    font-size: 24px;
+    font-size: 1.2em;
     line-height: 28px;
     font-weight: 500;
-    display: inline-block;
+    /*! display: inline-block; */
     margin-bottom: 0;
     padding-bottom: 7px;
     text-transform: capitalize;
-    border-bottom: 3px solid #c40316; }
+    border-bottom: 1px solid #8c8888; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .section_title h2 {
         font-size: 20px;
@@ -3168,7 +3231,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   .price_box span.current_price {
     font-size: 16px;
     font-weight: 500;
-    color: #c40316; }
+    /*! color: #c40316; */ }
 
 .countdown_text p {
   font-size: 14px;
@@ -4365,9 +4428,9 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       position: absolute;
       content: "";
       display: block;
-      width: 40px;
+      width: 87px;
       height: 3px;
-      background: #c40316;
+      background: #151515;
       bottom: 0; }
   .widget_list > ul > li {
     border-bottom: 1px solid #ebebeb; }
@@ -5241,15 +5304,15 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     text-transform: capitalize; }
   .product_variant.color ul li {
     display: inline-block;
-    padding: 2px;
-    border: 1px solid #ccc;
-    margin-right: 5px; }
+    /*! padding: 2px; */
+    /*! border: 1px solid #ccc; */
+    /*! margin-right: 5px; */ }
     .product_variant.color ul li:hover {
       border-color: #E88888; }
     .product_variant.color ul li:last-child {
       margin-right: 0; }
     .product_variant.color ul li a {
-      width: 30px;
+      width: 14px;
       height: 30px;
       display: block; }
     .product_variant.color ul li.color1 a {
@@ -5259,7 +5322,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     .product_variant.color ul li.color3 a {
       background: #FE0000; }
     .product_variant.color ul li.color4 a {
-      background: #FFFF01; }
+      background: #456F40; }
 
 .product_variant.size {
   margin-bottom: 30px; }
@@ -5500,6 +5563,31 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   opacity: 1;
   visibility: visible; }
 
+.single-zoom-thumb ul{
+  display:flex !important;
+  flex-direction: column;
+}
+
+.single-zoom-thumb{
+  width: 50px;
+  /*background-color: red !important;*/
+}
+.single-zoom-thumb ul li{
+  width: 80%;
+  max-height: 2em;
+  margin-bottom: 5em;
+  /*background-color: red !important;*/
+}
+.single-zoom-thumb img{
+  width: 8em !important;
+  max-height: 5em !important;
+}
+.single-zoom-thumb a{
+  width: 100% !important;
+  max-height: 100% !important;
+}
+
+
 .single-zoom-thumb {
   margin-top: 20px !important;
   width: 90%;
@@ -5514,7 +5602,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     .single-zoom-thumb {
       width: 101%; } }
   .single-zoom-thumb ul li {
-    border: 1px solid #ddd; }
+    /*! border: 1px solid #ddd; */ }
     .single-zoom-thumb ul li a {
       width: 100%; }
 
