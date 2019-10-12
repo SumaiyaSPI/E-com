@@ -1,3 +1,31 @@
+.single_related .short_note{
+  margin-top: 1em !important;
+  margin-bottom: 1em !important;
+}
+.author_item{
+  padding-top: 7em;
+}
+
+.single_related button{
+height: 2em;
+text-align: center;
+background-color: #C5209A;
+}
+
+.profile_img img{
+  position: absolute;
+  width: 100px !important;
+  height: 100px;
+  border-radius: 50%;
+
+  margin-top: 5em;
+  margin-left: 1em;
+}
+
+.single_related{
+  margin-right: 1em;
+}
+
 .product_accordian{
  
   margin-top: 2em;
@@ -7133,7 +7161,7 @@ text-align: center; }
       transform: translatex(-50%);
       background: url(../img/about/quote-icon.png) center center no-repeat; }
   .quote-container .author {
-    margin-top: 25px; }
+    margin-top: 50px; }
     .quote-container .author h6 {
       font-weight: 500;
       text-transform: uppercase;
