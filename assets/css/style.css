@@ -44,20 +44,21 @@
   margin-bottom: 1em !important;
 }
 .author_item{
-  padding-top: 7em;
+  padding-top: 23px;
 }
-
+.bg-gray{background: #F5F5F9;}
 .related_thumb {
       height: 200px;
-      width: 200px;
+      width: 277px;
       overflow: hidden;
+	  position:relative;
     }
 
 .related_thumb img {
-      
+      position:absolute;
        border-spacing: 15px; 
-      height: 200px;
-      width: 200px;
+      height: 100%;
+      width: 100%;
       -webkit-transition: all 1s ease;
       -moz-transition: all 1s ease;
       -ms-transition: all 1s ease;
@@ -65,12 +66,12 @@
     }
 
 
-.related_thumb img:hover {
+.related_thumb:hover img{
       transform: rotate(5grad) scale(1.2); 
     }
 
-.related_thumb a{
-
+.overlay a :hover .related_thumb img{
+transform: rotate(5grad) scale(1.2); 
 }
 
 .single_related button{
@@ -81,12 +82,10 @@ background-color: #C5209A;
 
 .profile_img img{
   position: absolute;
-  width: 100px !important;
-  height: 100px;
+  width: 90px !important;
+  height: 72px;
   border-radius: 50%;
-
-  margin-top: 5em;
-  margin-left: 1em;
+  margin-left: 4.4em;
 }
 
 .single_related{
@@ -3105,7 +3104,7 @@ width:1000px;	  } }
   border-top: 1px solid #ebebeb; }
 
 .home_section_bg {
-  background: #F5F5F9;
+
   padding: 60px 0 132px; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .home_section_bg {
@@ -4285,8 +4284,11 @@ text-align: center; }
 
 /*  07. footer area css here */
 .footer_top {
-  padding: 55px 0 56px;
-  border-bottom: 1px solid #ebebeb; }
+  padding: 55px 50px 56px;
+  border-bottom: 1px solid #ebebeb;
+background:#130e0e;
+color:white;
+  }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer_top {
       padding: 55px 0 5px; } }
@@ -4465,7 +4467,8 @@ text-align: center; }
       text-decoration: underline; }
 
 .footer_bottom {
-  padding: 30px 0; }
+  padding: 19px 0;
+background:#D89B69; }
   @media only screen and (max-width: 767px) {
     .footer_bottom {
       padding: 20px 0 25px; } }
@@ -8550,7 +8553,41 @@ text-align: center; }
 	height:364px;
 } 
  
+ .overlay a{
+	display: inline-block;
+text-decoration: none;
+padding: 56px 4px;
+text-transform: uppercase;
+color:
+#fff;
+border: 1px solid
+white;
+margin: 42px 0 0 -2px;
+background-color:
+transparent;
+opacity: 0;
+filter: alpha(opacity=0);
+-webkit-transform: scale(1.5);
+-ms-transform: scale(1.5);
+transform: scale(1.5);
+-webkit-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out;
+font-weight: normal;
+height: -58%;
+width: 86%;
+position: absolute;
+top:3%;
+left: 8%;
+ }
  
+ .related_thumb:hover .overlay a {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    
+}
 /*privacy policy css end*/
 
 /*# sourceMappingURL=style.css.map */
