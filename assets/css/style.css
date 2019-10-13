@@ -404,7 +404,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     Scroll Up 
 -----------------------------------------*/
 #scrollUp {
-  background: #c40316 none repeat scroll 0 0;
+  background: #008f95;
   bottom: 85px;
   color: #ffffff;
   cursor: pointer;
