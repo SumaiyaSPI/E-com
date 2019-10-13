@@ -90,7 +90,7 @@ transform: rotate(5grad) scale(1.2);
 .single_related button{
 height: 2em;
 text-align: center;
-background-color: #C5209A;
+background-color: #008f95;
 }
 
 .profile_img img{
@@ -1775,7 +1775,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     color: #222222; }
   .search_box input {
     border: 0;
-    background: inherit;
+    background: re;
     width: 100%;
     height: 50px;
     color: #222222;
@@ -1806,7 +1806,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     top: -2px;
     bottom: -2px;
     right: -2px;
-    background: #c40316;
+    background: #008f95;
     color: #fff;
     font-weight: 500;
     padding: 0 20px;
@@ -1816,7 +1816,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     -o-transition: 0.3s;
     transition: 0.3s; }
     .search_box button:hover {
-      background: #333; }
+      background: #008f95; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .search_box button {
         padding: 0 17px;
@@ -1838,7 +1838,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 
 /*search container css end*/
 .header_bigsale a {
-  background: #333;
+  background: #008f95;
   color: #fff;
   display: block;
   font-size: 14px;
@@ -1872,7 +1872,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       margin-bottom: 24px; } }
 
 .categories_title {
-  background: #c40316;
+  background: #008f95;
   padding: 0 30px;
   position: relative;
   cursor: pointer;
@@ -2759,7 +2759,7 @@ width:1000px;	  } }
     height: 48px;
     line-height: 48px;
     color: #ffffff;
-    background: #c40316; }
+    background: #008f95; }
     .slider_content a:hover {
       color: #ffffff;
       background: #222222; }
