@@ -1,3 +1,57 @@
+
+.mobile_sweet_bar {
+  display: none; }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .mobile_sweet_bar {
+      display: block; } }
+  @media only screen and (max-width: 767px) {
+    .mobile_sweet_bar {
+      display: block; } }
+
+
+
+
+.mobile_top_bar {
+  margin-left: 20px; }
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .mobile_top_bar {
+      display:none; } }
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .mobile_top_bar {
+      display: flex !important; }
+      .desktop_top_bar{
+        display:none;
+        } }
+  @media only screen and (max-width: 767px) {
+    .mobile_top_bar {
+      display: flex !important; }
+
+      .desktop_top_bar{
+        display:none;
+        }
+         }
+
+
+
+/*----------------------
+  $BODY
+  ----------------------*/
+
+/*----------------------
+  $MISC
+  ----------------------*/
+.filler {
+  width: 1px;
+  height: 200px;
+}
+
+.two {
+  height: 3000px;
+}
+
+
+
+
 .single_related .short_note{
   margin-top: 1em !important;
   margin-bottom: 1em !important;
@@ -262,6 +316,10 @@ figure {
 
 .container {
   max-width: 1430px; }
+
+
+
+
 
 @media only screen and (max-width: 767px) {
   .container {
@@ -791,7 +849,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   padding: 6px 20px;
   left: 0;
   right: 0; }
-  @media only screen and (min-width: 1200px) and (max-width: 1600px) {
+/*  @media only screen and (min-width: 1200px) and (max-width: 1600px) {
     .sticky-header.sticky {
       padding: 6px 0; } }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -813,7 +871,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       animation-name: inherit;
       padding: 0;
       background: inherit;
-      opacity: inherit; } }
+      opacity: inherit; } }*/
 
 .sticky_header_area {
   display: none; }
@@ -842,7 +900,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       .sticky_header_right .main_menu nav > ul > li > a.active {
         color: #c40316; }
       .sticky_header_right .main_menu nav > ul > li > a::before {
-        display: none; }
+         }
     .sticky_header_right .main_menu nav > ul > li:hover > a {
       color: #c40316; }
 
