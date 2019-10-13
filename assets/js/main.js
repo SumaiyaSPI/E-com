@@ -21,9 +21,9 @@
     $(window).on('scroll',function() {    
            var scroll = $(window).scrollTop();
            if (scroll < 100) {
-            $(".sticky-header").removeClass("sticky");
+            $(".sticky-header").removeClass("sticky d-block");
            }else{
-            $(".sticky-header").addClass("sticky");
+            $(".sticky-header").addClass("sticky d-block");
            }
     });
     
