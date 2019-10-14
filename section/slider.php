@@ -1,7 +1,7 @@
-<section class="slider_section slider_s_one mb-60 mt-20">
+    <section class="slider_section slider_s_one mb-60 mt-20">
         <div class="container">
             <div class="row">
-			<div class="s_banner col-lg-3 col-md-12">
+            <div class="s_banner col-lg-3 col-md-12">
                     <!--banner area start-->
                     <div class="sidebar_banner_area">
                         <figure class="single_banner mb-20 ">
@@ -22,8 +22,8 @@
                     </div>
                     <!--banner area end-->
                 </div>
-			
-			
+            
+            
                 <div class="col-lg-9 slider col-md-12">
                     <div class="swiper-container gallery-top">
                         <div class="slider_area swiper-wrapper">

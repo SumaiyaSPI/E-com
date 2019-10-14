@@ -1,3 +1,83 @@
+./*Shams*/
+.widget_categories label{
+  background-color: red !important;
+}
+
+
+.widget_categories>ul>li>a{
+  /*background-color: red;*/
+  font-size: 2em;
+  font-weight: 700;
+}
+
+
+.size_range_product_sidebar{
+ /* background-color: red;*/
+}
+
+.size_range_product_sidebar>div{
+  margin-left: 1em;
+}
+
+.size_range_product_sidebar button{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  margin-left: 1em;
+}
+
+
+.product_options{
+  display: flex;
+  justify-content: space-between;
+}
+
+.product_options span{
+  /*! width: 33%; */
+  font-size: 1em;
+}
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .product_accordian,.product_options{
+      width: 100% !important;}}
+      
+  @media only screen and (max-width: 767px) {
+    .product_accordian, .product_options{
+      width: 100% !important;}}
+
+
+
+.show{
+ -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+
+}
+
+.single-zoom-thumb img:hover{
+   box-shadow: 1px 1px #DCDCDC;
+   transform: scale(1.15);
+}
+
+.product_options{
+width: 50%;
+}
+
+.product_options i{
+  color:#008F95;
+}
+.breadcrumb_content li{
+  color: #455D5E  !important;
+}
+
+
+
+/*Shams End*/
+
+
 .btn-primary:hover{
 	background:#008f95;
 	border:1px solid #008f95;
@@ -150,8 +230,7 @@ background-color: #008f95;
 .product_accordian{
  
   margin-top: 2em;
-  width:500px !important;
-  background-color: red;
+  width:50% ;
   margin-bottom: 2em;
 }
 
@@ -869,8 +948,8 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   width: 100%;
   top: -32px;
   /*! background: rgba(255, 255, 255, 0.95); */
-  -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.11);
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.11);
+  /*! -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.11); */
+  /*! box-shadow: 0 1px 3px rgba(0, 0, 0, 0.11); */
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
   -webkit-animation-duration: 900ms;
@@ -8761,7 +8840,7 @@ left: 8%;
 header-search{
   transition:.3s!important;
 }
-input:hover{
+.search-top input:hover{
   position:absolute;
   width:90%;
 }
@@ -8769,9 +8848,9 @@ input:hover{
   position:absolute;
   left:28%;
 }
-input:hover .fa-search{
+.search-top input:hover .fa-search{
   opacity:0;
 }
-.gif_text p i{
+.search-top .gif_text p i{
 	color:#008f95;
 }
