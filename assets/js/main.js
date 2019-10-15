@@ -656,6 +656,10 @@
         $('.categories_menu_toggle').slideToggle('medium');
     }); 
 
+	
+	
+	
+	
     /*---widget sub categories---*/
     $(".sub_categories1 > a").on("click", function() {
         $(this).toggleClass('active');

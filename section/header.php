@@ -40,7 +40,7 @@
                             <div class="main_menu menu_position text-center">
                                 <nav>
                                     <ul>
-                                        <li><a href="/">home<i class="fa fa-angle-down"></i></a>
+                                        <li><a href="/">home</a>
                                             <ul class="sub_menu">
                                                 <li><a href="catagoryProducts.php">Catagory Page</a></li>
                                                 <li><a href="singleProduct.php">Product Single Page</a></li>
@@ -50,7 +50,7 @@
                                                 <li><a href="index-6.html">Home shop 6</a></li>
                                             </ul>
                                         </li>
-                                        <li class="mega_items"><a href="shop.html">shop<i class="fa fa-angle-down"></i></a>
+                                        <li class="mega_items"><a href="shop.html">shop</a>
                                             <div class="mega_menu">
                                                 <ul class="mega_menu_inner">
                                                     <li><a href="#">Shop Layouts</a>
@@ -84,7 +84,7 @@
                                                 </ul>
                                             </div>
                                         </li>
-                                        <li><a href="blog.html">blog<i class="fa fa-angle-down"></i></a>
+                                        <li><a href="blog.html">blog</a>
                                             <ul class="sub_menu pages">
                                                 <li><a href="blog-details.html">blog details</a></li>
                                                 <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
@@ -92,7 +92,7 @@
                                                 <li><a href="blog-no-sidebar.html">blog no sidebar</a></li>
                                             </ul>
                                         </li>
-                                        <li><a class="active" href="#">pages <i class="fa fa-angle-down"></i></a>
+                                        <li><a class="active" href="#">pages</a>
                                             <ul class="sub_menu pages">
                                                 <li><a href="about.html">About Us</a></li>
                                                 <li><a href="faq.html">Frequently Questions</a></li>
@@ -507,29 +507,10 @@
                         <div class="column2 col-lg-6 col-12">
                             <div class="search_container">
                                 <form action="#">
-                                    <div class="hover_category">
-                                        <select class="select_option" name="select" id="categori2">
-                                            <option selected value="1">All Categories</option>
-                                            <option value="2">Accessories</option>
-                                            <option value="3">Accessories & More</option>
-                                            <option value="4">Butters & Eggs</option>
-                                            <option value="5">Camera & Video </option>
-                                            <option value="6">Mornitors</option>
-                                            <option value="7">Tablets</option>
-                                            <option value="8">Laptops</option>
-                                            <option value="9">Handbags</option>
-                                            <option value="10">Headphone & Speaker</option>
-                                            <option value="11">Herbs & botanicals</option>
-                                            <option value="12">Vegetables</option>
-                                            <option value="13">Shop</option>
-                                            <option value="14">Laptops & Desktops</option>
-                                            <option value="15">Watchs</option>
-                                            <option value="16">Electronic</option>
-                                        </select>
-                                    </div>
+                                  
                                     <div class="search_box show">
                                         <input placeholder="Search product..." type="text">
-                                        <button type="submit">Search</button>
+                                        <button type="submit"><i class="fa fa-search"></i></button>
                                     </div>
                                 </form>
                             </div>
@@ -537,7 +518,39 @@
                         </div>
                         <div class="column3 col-lg-3 col-md-6 hide col-sm-12">
                              <div class="header_bigsale">
-                                <a href="#">BIG SALE BLACK FRIDAY</a>
+                                <p>Hi, Sign in </p>
+								 <div class="categories_menu categories_three">
+                                <div class="categories_market_second">
+                                    <p class="categori_toggle">My Market</p>
+                                </div>
+                                <div class="categories_market_toggle">
+                                    <ul>
+                                        <li class="menu_item_children"><a href="#">Brake Parts </a>
+                                        </li>
+                                        <li class="menu_item_children"><a href="#"> Wheels & Tires </a>
+                                          
+                                        </li>
+                                        <li class="menu_item_children"><a href="#"> Furnitured & Decor</a>
+                                          
+                                        </li>
+                                        <li class="menu_item_children"><a href="#"> Turbo System</a>
+                                           
+                                        </li>
+                                        <li><a href="#"> Lighting</a></li>
+                                        <li><a href="#"> Accessories</a></li>
+                                        <li><a href="#">Body Parts</a></li>
+                                        <li><a href="#">Networking</a></li>
+                                        <li><a href="#">Perfomance Filters</a></li>
+                                        <li><a href="#"> Engine Parts</a></li>
+                                        <li id="cat_toggle" class="has-sub"><a href="#"> More Categories</a>
+                                            <ul class="categorie_sub">
+                                                <li><a href="#">Hide Categories</a></li>
+                                            </ul>
+
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
                             </div>  
                             </div>
                             

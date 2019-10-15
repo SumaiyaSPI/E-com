@@ -3,7 +3,7 @@
         <div class="product_area deals_product">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-6 offset-md-5">
+                    <div class="col-12 col-md-6 offset-md-4">
                         <div class="product_header">
                             <div class="product_tab_btn text-center">
 							<h3 class="mb-3">YOUR COLLECTION</h3>
