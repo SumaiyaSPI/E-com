@@ -188,7 +188,7 @@
                                    <div class="col-xs-12 col-sm-4 col-lg-5 col-md-6 no-margin hidden-xs">
                                     <div class="row clearfix">
                                                   
-                                        <div class="col-md-2 col-sm-4 col-lg-2 offset-1">
+                                        <div class="col-md-2 col-sm-4 col-lg-2 offset-1 sticky_menu_section">
                                             <nav>
                                        
                                              <ul class="navbar-nav mr-auto">

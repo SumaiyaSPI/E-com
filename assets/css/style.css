@@ -1,7 +1,10 @@
 ./*Shams*/
-.widget_categories label{
-  background-color: red !important;
-}
+
+@media only screen and (max-width: 767px) {
+  .sticky_menu_section {
+    display: none !important;
+    } }
+
 
 
 .widget_categories>ul>li>a{
