@@ -13,12 +13,12 @@
                                     </li>
                                     <li>
                                         <a data-toggle="tab" href="#Games" role="tab" aria-controls="Games" aria-selected="false">
-                                            NECKLACE
+											Deals Of The Month
                                         </a>
                                     </li>
                                     <li>
                                         <a data-toggle="tab" href="#Speaker" role="tab" aria-controls="Speaker" aria-selected="false">
-                                            RINGS
+                                     dfrytuj
                                         </a>
                                     </li>
                                     <li>

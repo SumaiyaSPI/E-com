@@ -112,19 +112,17 @@
                         <div class="col-lg-3 col-xs-12">
                             <div class="header_configure_area">
                                 <div class="header_wishlist">
-                                    <a href="wishlist.html"><i class="ion-android-favorite-outline"></i>
-                                        <span class="wishlist_count">3</span>
+                                    <a href="wishlist.html"><i class="fa fa-bar-chart" aria-hidden="true"></i>
+                                        <span class="wishlist_count">0</span>
                                     </a>
                                 </div>
-                                <div class="mini_cart_wrapper">
-                                    <a href="javascript:void(0)">
-                                        <img src="assets/img/logo/cart.png" width="35em" alt="">
-                                        <span class="cart_price">$152.00 <i class="ion-ios-arrow-down"></i></span>
-                                        <span class="cart_count">2</span>
+                                <div class="header_wishlist">
+									<a href="wishlist.html"><i class="fa fa-heart" aria-hidden="true"></i>
 
+                                        <span class="wishlist_count">0</span>
                                     </a>
                                     <!--mini cart-->
-                                    <div class="mini_cart">
+                                   <!-- <div class="mini_cart">
                                         <div class="mini_cart_inner">
                                             <div class="cart_item">
                                                 <div class="cart_img">
@@ -170,7 +168,7 @@
                                             </div>
 
                                         </div>
-                                    </div>
+                                    </div>-->
                                     <!--mini cart end-->
                                 </div>
                             </div>
@@ -189,10 +187,10 @@
                                     <div class="row clearfix">
                                                   
                                         <div class="col-md-2 col-sm-4 col-lg-2 offset-1 sticky_menu_section">
-                                            <nav>
+                                            <nav class="pro_hide">
                                        
                                              <ul class="navbar-nav mr-auto">
-                                                <li class="dropdown col-md-4 col-sm-4 col-lg-4 hidden-xs pro_hide">
+                                                <li class="dropdown col-md-4 col-sm-4 col-lg-4 hidden-xs ">
                                                     <a href="ProductCategory.php" class="dropdown-toggle pro_hide" data-hover="dropdown" data-toggle="dropdown" aria-expanded="false">Products</a>
                                                      <ul class="dropdown-menu" id="top_bar_menu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(15px, 50px, 0px);">
                                                         <li class="top_bar_menu_item">
@@ -377,7 +375,7 @@
                 <!--header bottom satrt-->
                 <div class="header_bottom">
                     <div class="row align-items-center">
-                        <div class="column1 col-lg-3 col-md-6 hide col-12">
+                        <div class="column1 col-lg-3 col-md-6 hide col-12 col-sm-d-none">
                             <div class="categories_menu categories_three">
                                 <div class="categories_title">
                                     <h2 class="categori_toggle">ALL CATEGORIES</h2>
@@ -504,7 +502,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="column2 col-lg-6 col-12">
+                        <div class="column2 col-lg-6 col-sm-12">
                             <div class="search_container">
                                 <form action="#">
                                   
@@ -516,8 +514,10 @@
                             </div>
 
                         </div>
-                        <div class="column3 col-lg-3 col-md-6 hide col-sm-12">
-                             <div class="header_bigsale">
+                        <div class="column3 col-lg-3 col-md-6 hide col-sm-12 col-sm-d-none">
+						<div class="row">
+							  <div class="col-md-6 col-sm-6 col-sm-d-none">
+								<div class="header_bigsale">
                                 <p>Hi, Sign in </p>
 								 <div class="categories_menu categories_three">
                                 <div class="categories_market_second">
@@ -551,8 +551,20 @@
                                     </ul>
                                 </div>
                             </div>
-                            </div>  
                             </div>
+						  </div> 
+						
+							<div class="col-md-6">
+								<div class="cart_img_page pl-5">
+									<a href=""><img src="assets/img/logo/cart.png" alt="" /></a>
+								</div>
+							</div>
+						</div>
+						  </div>
+						</div>	
+						</div>
+						  
+                        </div>
                             
                         </div>
                     </div>
@@ -561,3 +573,5 @@
             </div>
         </div>
     </header>
+	
+	

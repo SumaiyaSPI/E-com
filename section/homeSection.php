@@ -10,22 +10,23 @@
                                 <ul class="nav text-center" role="tablist">
                                     <li>
                                         <a class="active" data-toggle="tab" href="#Fashion" role="tab" aria-controls="Fashion" aria-selected="true">
-                                            ERRINGS
+                                           New Arrivals
                                         </a>
                                     </li>
                                     <li>
                                         <a data-toggle="tab" href="#Games" role="tab" aria-controls="Games" aria-selected="false">
-                                            NECKLACE
+                                        Deals Of The Month
                                         </a>
                                     </li>
                                     <li>
                                         <a data-toggle="tab" href="#Speaker" role="tab" aria-controls="Speaker" aria-selected="false">
-                                            RINGS
+                                           Featured Products
                                         </a>
                                     </li>
                                     <li>
                                         <a data-toggle="tab" href="#Mobile" role="tab" aria-controls="Mobile" aria-selected="false">
-                                           FEATURE
+                                           
+										Best Selling Products
                                         </a>
                                     </li>
                                 </ul>
@@ -494,12 +495,7 @@
                                                 <span class="old_price">$76.00</span>
                                                 <span class="current_price">$75.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/11/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -531,12 +527,7 @@
                                                 <span class="old_price">$86.00</span>
                                                 <span class="current_price">$79.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/12/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -569,12 +560,7 @@
                                                 <span class="old_price">$82.00</span>
                                                 <span class="current_price">$75.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/08/15"></div>
-                                            </div>
+                                           
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -607,12 +593,7 @@
                                                 <span class="old_price">$80.00</span>
                                                 <span class="current_price">$70.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/02/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -645,12 +626,7 @@
                                                 <span class="old_price">$72.00</span>
                                                 <span class="current_price">$70.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/12/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -683,12 +659,7 @@
                                                 <span class="old_price">$65.00</span>
                                                 <span class="current_price">$60.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/10/15"></div>
-                                            </div>
+                                           
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -725,12 +696,7 @@
                                                 <span class="old_price">$72.00</span>
                                                 <span class="current_price">$70.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/12/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -763,12 +729,7 @@
                                                 <span class="old_price">$86.00</span>
                                                 <span class="current_price">$79.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/12/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -801,12 +762,7 @@
                                                 <span class="old_price">$80.00</span>
                                                 <span class="current_price">$70.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/02/15"></div>
-                                            </div>
+                                           
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -839,12 +795,7 @@
                                                 <span class="old_price">$76.00</span>
                                                 <span class="current_price">$75.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/11/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -876,12 +827,7 @@
                                                 <span class="old_price">$82.00</span>
                                                 <span class="current_price">$75.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/08/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
@@ -914,12 +860,7 @@
                                                 <span class="old_price">$65.00</span>
                                                 <span class="current_price">$60.00</span>
                                             </div>
-                                            <div class="countdown_text">
-                                                <p><span>Hurry Up!</span> Offers ends in: </p>
-                                            </div>
-                                            <div class="product_timing">
-                                                <div data-countdown="2021/10/15"></div>
-                                            </div>
+                                            
                                         </div>
                                         <div class="add_to_cart">
                                             <a href="cart.html" title="Add to cart">Add to cart</a>
