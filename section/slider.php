@@ -24,7 +24,7 @@
                 </div>
             
             
-                <div class="col-lg-9 slider col-md-12">
+                 <div class="col-lg-9 slider col-md-12">
                     <div class="swiper-container gallery-top">
                            
 						<div class="slider_area slider3_carousel owl-carousel">
@@ -62,7 +62,7 @@
                         <!-- Add Arrows -->
 
                         <div class="swiper-pagination"></div>
-                    </div>
+                    </div> 
                     <div class="swiper-container gallery-thumbs">
                         
                     </div>

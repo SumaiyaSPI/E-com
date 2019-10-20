@@ -2798,7 +2798,7 @@ opacity:0;
   @media only screen and (min-width: 1200px) and (max-width: 1600px) {
     .single_slider {
       height:480px;
-width:1000px;   } }
+width:1009px;   } }
   @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .single_slider {
       height: 351px; } }
@@ -2928,7 +2928,8 @@ width:1000px;   } }
     height: 48px;
     line-height: 48px;
     color: #ffffff;
-    background: #008f95; }
+    background: none;
+border: 1px solid white; }
     .slider_content a:hover {
       color: #ffffff;
       background: #222222; }
