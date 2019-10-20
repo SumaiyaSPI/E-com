@@ -56,17 +56,19 @@
                     </div>
                     <div class="col-lg-4 col-md-7 col-sm-12">
                         <div class="widgets_container">
-                            <h3>CONTACT INFO</h3>
+                            <h3>Instagram</h3>
                             <div class="footer_contact">
                                 <div class="footer_contact_inner">
-                                    <div class="contact_icone">
-                                        <img src="assets/img/icon/icon-phone.png" alt="">
+                                    <div class="contact_icone text-right mr-4">
+									<div class="EmbedBrokenMedia">
+                                      <iframe width="250" height="140px" src="http://instagram.com/p/qbq6fIJMVZ/embed" frameborder="0"></iframe>
+									  </div>
                                     </div>
-                                    <div class="contact_text">
-                                        <p>Hotline Free 24/24: <br> <strong>(+800) 123 456 789</strong></p>
-                                    </div>
+                                   
                                 </div>
-                                <p>The Barn, Henley in Arden B578. England. Support@eCommerce</p>
+                             
+								
+								
                             </div>
 
                             <div class="footer_social">

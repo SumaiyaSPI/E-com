@@ -3681,7 +3681,10 @@ text-align: center; }
     .product_tab_btn ul li a:hover {
       color: #635f60; }
     .product_tab_btn ul li a.active {
-      color: #3c3939; }
+      color: #3c3939; 
+	  border:1px solid black;
+	  
+	  }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .product_tab_btn ul li a {
         font-size: 13px; } }
@@ -4630,7 +4633,8 @@ color:white;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  }
 
 .contact_text {
   margin-left: 15px; }
@@ -8934,7 +8938,12 @@ header-search{
 .banner_thumb img:hover{
 	opacity:.7;
 }
-.related_thumb{transition:1s;}
-.related_thumb:hover{
-	margin-top:-20px;
+.single_related{transition:1s;}
+.single_related:hover{
+	margin-top:-10px;
+}
+.contact_icone img{
+	width:30%;
+	border-radius:5px;
+	
 }

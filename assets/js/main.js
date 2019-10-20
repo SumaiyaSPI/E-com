@@ -659,7 +659,6 @@
 	
 	
 	
-	
     /*---widget sub categories---*/
     $(".sub_categories1 > a").on("click", function() {
         $(this).toggleClass('active');

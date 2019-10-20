@@ -3,6 +3,16 @@
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
+	  <script src="assets/js/wow.min.js"></script>
+     <script>
+              new WOW().init();
+              </script> 
+              <!--owlcarusol-->
+              
+         <script>
+	
+	
+	
 	
  <!-- Main JS -->
 	<script src="assets/js/owl.carousel.min.js"></script>
