@@ -8283,9 +8283,7 @@ background:#130E0E;
   margin-bottom: 15px; 
   }
 
-.related_thumb:hover{
-  transform: rotate(5grad) scale(1.2);}
-  
+
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .related_thumb img {
       width: 100%; } }
