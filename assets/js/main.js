@@ -653,7 +653,7 @@
     /*---categories slideToggle---*/
     $(".categories_title").on("mouseover", function() {
         $(this).toggleClass('active');
-        $('.categories_menu_toggle').slideToggle('medium');
+        $('.categories_menu_toggle').fadeIn('medium');
     }); 
 
 	
@@ -798,7 +798,81 @@
     }); 
     
     
-    /*---slide toggle activation---*/
+// Sign in My market
+
+$(".header_bigsale").on("mouseover", function() {
+    $(this).toggleClass('active');
+    $('.categories_market_toggle').fadeIn(500);
+}); 
+
+$(".categories_market_toggle").mouseleave(function() {
+    $('.categories_market_toggle').fadeOut(500);
+}); 
+
+$(".categories_three").mouseleave(function() {
+    $('.categories_menu_toggle').fadeOut('slow');
+});
+
+// Sticky top bar right section
+
+
+$(".top-cart-icon").on("mouseover", function() {
+    $(this).toggleClass('active');
+    $('.top-items-drop').fadeOut(500);
+    $('.top-user-drop').fadeOut(500);
+    $('.top-cart-drop').fadeIn(500);
+    $('.top-order-drop').fadeOut(500);
+});
+
+$(".top-user-icon").on("mouseover", function() {
+    $(this).toggleClass('active');
+    $('.top-items-drop').fadeOut(500);
+    $('.top-user-drop').fadeIn(500);
+    $('.top-cart-drop').fadeOut(500);
+    $('.top-order-drop').fadeOut(500);
+});
+
+$(".top-cart-icon").on("mouseover", function() {
+    $(this).toggleClass('active');
+    $('.top-items-drop').fadeOut(500);
+    $('.top-user-drop').fadeOut(500);
+    $('.top-cart-drop').fadeIn(500);
+    $('.top-order-drop').fadeOut(500);
+});
+
+$(".top-order-icon").on("mouseover", function() {
+    $(this).toggleClass('active');
+    $('.top-items-drop').fadeOut(500);
+    $('.top-user-drop').fadeOut(500);
+    $('.top-cart-drop').fadeOut(500);
+    $('.top-order-drop').fadeIn(500);
+});
+
+$(".top-items-icon").on("mouseover", function() {
+    $(this).toggleClass('active');
+    $('.top-items-drop').fadeIn(500);
+    $('.top-user-drop').fadeOut(500);
+    $('.top-cart-drop').fadeOut(500);
+    $('.top-order-drop').fadeOut(500);
+});
+
+
+$(".top-cat-option").on("mouseover", function() {
+    $(this).toggleClass('active');
+    $('#top_bar_menu').fadeIn(500);
+});
+
+$("#top_bar_menu").mouseleave(function() {
+    $('#top_bar_menu').fadeOut('slow');
+});
+
+$(".drop").mouseleave(function() {
+    $('.drop').fadeOut('slow');
+});
+
+
+
+/*---slide toggle activation---*/
     $('.mini_cart_wrapper > a').on('click', function(event){
         if($(window).width() < 991){
             $('.mini_cart').slideToggle('medium');
