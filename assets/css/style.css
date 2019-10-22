@@ -1,4 +1,4 @@
-./*Shams*/
+/*Shams*/
 
 @media only screen and(max-width: 767px) {
   .sticky_menu_section {
@@ -4699,7 +4699,9 @@ color:white;
 
 .footer_bottom {
   padding: 19px 0;
-background:#D89B69; }
+background:#130E0E; 
+  color: grey;
+}
   @media only screen and (max-width: 767px) {
     .footer_bottom {
       padding: 20px 0 25px; } }
@@ -8191,7 +8193,7 @@ background:#D89B69; }
     text-transform: uppercase; }
 
 .related_thumb {
-  margin-bottom: 15px; }
+  margin-bottom: 15px; 
   }
   .related_thumb:hover{
   transform: rotate(5grad) scale(1.2);}
