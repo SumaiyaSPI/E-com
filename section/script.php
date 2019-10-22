@@ -3,13 +3,19 @@
 
     <!-- Main JS -->
     <script src="assets/js/main.js"></script>
-	  <script src="assets/js/wow.min.js"></script>
-     <script>
+    <script src="assets/js/wow.min.js"></script>
+    <script>
               new WOW().init();
               </script> 
               <!--owlcarusol-->
               
          <script>
+
+
+  
+
+
+     
 	
 	
 	
@@ -40,3 +46,10 @@
               })
             })
      </script>
+
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="assets/js/vue.js"></script>

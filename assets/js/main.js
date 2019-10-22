@@ -870,7 +870,7 @@ $(".drop").mouseleave(function() {
     $('.drop').fadeOut('slow');
 });
 
-
+// 
 
 /*---slide toggle activation---*/
     $('.mini_cart_wrapper > a').on('click', function(event){
