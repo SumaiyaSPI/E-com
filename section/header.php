@@ -33,7 +33,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-2 col-md-6 col-xs-12">
                             <div class="logo">
-                                <a href="/"><img src="assets/img/logo/logo.png" alt=""></a>
+                                <a href="/"><img src="assets/img/logo/logo.png" alt=""style="max-width:120%;"></a>
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-12 col-xs-12 ">
@@ -191,11 +191,11 @@
                                        
                                              <ul class="navbar-nav mr-auto">
                                                 <li class="dropdown col-md-4 col-sm-4 col-lg-4 hidden-xs ">
-                                                    <a href="ProductCategory.php" class="dropdown-toggle pro_hide" data-hover="dropdown" data-toggle="dropdown" aria-expanded="false">Products</a>
-                                                     <ul class="dropdown-menu" id="top_bar_menu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(15px, 50px, 0px);">
+                                                    <a href="ProductCategory.php" class="dropdown-toggle pro_hide" data-hover="dropdown" data-toggle="dropdown" aria-expanded="false">Category</a>
+                                                     <ul class="dropdown-menu" id="top_bar_menu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(15px, 50px, 0px); width: 200px;">
                                                         <li class="top_bar_menu_item">
                                                                 <a href="#" class="dropbtn">
-                                                                    Number One
+                                                                    WHAT'S NEW Two
                                                                     <!--  <i class="fa fa-caret-down"></i> -->
                                                                 </a>
 
@@ -382,9 +382,10 @@
                                 </div>
                                 <div class="categories_menu_toggle">
                                     <ul>
-                                        <li class="menu_item_children"><a href="#">Brake Parts <i class="fa fa-angle-right"></i></a>
+                                        <li class="menu_item_children"><a href="#"><i class="fa fa-laptop" aria-hidden="true"></i>
+Brake Parts <i class="fa fa-angle-right"></i></a>
                                             <ul class="categories_mega_menu">
-                                                <li class="menu_item_children"><a href="#">Dresses</a>
+                                                <li class="menu_item_children"><a href="#"> Dresses</a>
                                                     <ul class="categorie_sub_menu">
                                                         <li><a href="#">Sweater</a></li>
                                                         <li><a href="#">Evening</a></li>
@@ -418,7 +419,8 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="menu_item_children"><a href="#"> Wheels & Tires <i class="fa fa-angle-right"></i></a>
+                                        <li class="menu_item_children"><a href="#"> <i class="fa fa-laptop" aria-hidden="true"></i>
+Wheels & Tires <i class="fa fa-angle-right"></i></a>
                                             <ul class="categories_mega_menu column_3">
                                                 <li class="menu_item_children"><a href="#">Chair</a>
                                                     <ul class="categorie_sub_menu">
@@ -446,7 +448,8 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="menu_item_children"><a href="#"> Furnitured & Decor <i class="fa fa-angle-right"></i></a>
+                                        <li class="menu_item_children"><a href="#"> <i class="fa fa-laptop" aria-hidden="true"></i>
+Furnitured & Decor <i class="fa fa-angle-right"></i></a>
                                             <ul class="categories_mega_menu column_2">
                                                 <li class="menu_item_children"><a href="#">Brake Tools</a>
                                                     <ul class="categorie_sub_menu">
@@ -466,7 +469,8 @@
                                                 </li>
                                             </ul>
                                         </li>
-                                        <li class="menu_item_children"><a href="#"> Turbo System <i class="fa fa-angle-right"></i></a>
+                                        <li class="menu_item_children"><a href="#"> <i class="fa fa-laptop" aria-hidden="true"></i>
+Turbo System <i class="fa fa-angle-right"></i></a>
                                             <ul class="categories_mega_menu column_2">
                                                 <li class="menu_item_children"><a href="#">Check Trousers</a>
                                                     <ul class="categorie_sub_menu">

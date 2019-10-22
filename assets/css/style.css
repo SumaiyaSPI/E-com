@@ -119,6 +119,8 @@ width: 50%;
 .deals_product ul li a:hover{
   border: 1px solid grey;
   border-radius: 30px;
+  background:#008f95;
+  color:white;
 }
 
 .hot {
@@ -2027,7 +2029,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       margin-bottom: 24px; } }
 
 .categories_title {
-  background: #008f95;
+  border:1px solid #008f95;
   padding: 0 30px;
   position: relative;
   cursor: pointer;
@@ -2044,7 +2046,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
       line-height: 40px; } }
   .categories_title::before {
     content: "\f394";
-    color: #fff;
+    color: #008f95;
     display: inline-block;
     font-family: Ionicons;
     position: absolute;
@@ -2059,7 +2061,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
     font-size: 13px;
     font-weight: 500;
     line-height: 26px;
-    color: #fff;
+    color: #008f95;
     cursor: pointer;
     margin-bottom: 0;
     display: inline-block; }
@@ -2154,7 +2156,9 @@ opacity:0;
       visibility: visible;
       left: 100%; }
     .categories_menu_toggle > ul > li:hover > a {
-      color: #008f95; }
+      color: white; 
+	  background:#008f95;
+	  }
     .categories_menu_toggle > ul > li ul.categories_mega_menu {
       position: absolute;
       left: 120%;
@@ -4352,8 +4356,8 @@ text-align: center; }
 
 /* 21. shipping css here */
 .single_shipping:hover{
-	background:rgba(0, 143, 149, .5);
-	
+	background:#008f95;
+	color:white;
 }
 .shipping_inner {
   overflow: hidden;
@@ -8732,6 +8736,9 @@ background:#D89B69; }
   opacity:0;
   transition:.3s;
 }
+.hover_content button{
+	opacity:1;
+}
 .single_categories_product:hover{
   transform: scale(1.1);
 	z-index:111;
@@ -8834,7 +8841,7 @@ left: 8%;
 
 .top-bar ul>li.dropdown .dropdown-menu li a {
     display: block;
-    padding: 7px 13px;
+    padding: 12px 17px;
     margin: 0 2px;
     border: none;
 }
@@ -8911,7 +8918,7 @@ header-search{
   transition:.3s!important;
 }
 .search-top input:hover{
-  width:90%;
+  width:65%;
 }
 .search-top input{
   position:absolute;
@@ -8925,7 +8932,7 @@ header-search{
   transition:1s;
 }
 .search-top :hover .icon{
-	left:85%;
+	left:55%;
 	top:17%;
 }
 .search-top .gif_text p i{
@@ -8948,3 +8955,30 @@ header-search{
 	border-radius:5px;
 	
 }
+
+
+.top-bar ul > li.dropdown .dropdown-menu li a{
+	color:black;
+	font-size:15px;
+	font-weight:500;
+}
+.top-bar ul > li.dropdown .dropdown-menu li a:hover{
+	color:#008f95 !important;
+	border-left:2px solid #008f95;
+}
+.logo img{
+	width:120%;
+}
+.main_menu nav > ul > li > a:hover{
+	color:#008f95;
+}
+.categories_title:hover{
+	background:#008f95;
+	
+}
+.categories_title:hover.categories_title h2{
+	color:white;
+}
+ .categories_title:hover.categories_title::before{
+	 	color:white;
+ }

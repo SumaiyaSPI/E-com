@@ -13,8 +13,9 @@
                                 <li><a class="text-la" href="#">Hood</a></li>
                                 <li><a class="text-la" href="#">Shoes</a></li>
                             </ul>
-                            <button type="button" class="btn btn-primary">Shop Now</button>
+                            
                             </div>
+							<button type="button" class="btn btn-primary">Shop Now</button>
                         </div>
                             
                     </div>
@@ -30,8 +31,9 @@
                                 <li><a class="text-la" href="#">Hood</a></li>
                                 <li><a class="text-la" href="#">Shoes</a></li>
                             </ul>
-                            <button type="button" class="btn btn-primary">Shop Now</button>
+                            
                             </div>
+							<button type="button" class="btn btn-primary">Shop Now</button>
                         </div>
                             
                     </div> 
@@ -47,8 +49,9 @@
                                 <li><a class="text-la" href="#">Hood</a></li>
                                 <li><a class="text-la" href="#">Shoes</a></li>
                             </ul>
-                            <button type="button" class="btn btn-primary">Shop Now</button>
+                            
                             </div>
+							<button type="button" class="btn btn-primary">Shop Now</button>
                         </div>
                             
                     </div>
@@ -64,8 +67,9 @@
                                 <li><a class="text-la" href="#">Hood</a></li>
                                 <li><a class="text-la" href="#">Shoes</a></li>
                             </ul>
-                            <button type="button" class="btn btn-primary">Shop Now</button>
+                           
                             </div>
+							 <button type="button" class="btn btn-primary">Shop Now</button>
                         </div>
                             
                     </div>
@@ -81,8 +85,9 @@
                                 <li><a class="text-la" href="#">Hood</a></li>
                                 <li><a class="text-la" href="#">Shoes</a></li>
                             </ul>
-                            <button type="button" class="btn btn-primary">Shop Now</button>
+                           
                             </div>
+							 <button type="button" class="btn btn-primary">Shop Now</button>
                         </div>
                             
                     </div>
