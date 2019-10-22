@@ -1,5 +1,4 @@
     <div class="home_section_bg">
-	
         <div class="product_area deals_product">
             <div class="container">
                 <div class="row">
