@@ -9,7 +9,7 @@
         <div class="footer_top">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="col-lg-2 col-md-4 col-sm-6">
                         <div class="widgets_container widget_menu">
                             <h3>Information</h3>
                             <div class="footer_menu">
@@ -39,7 +39,9 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-5 col-sm-6">
+					
+					
+                    <div class="col-lg-2 col-md-5 col-sm-6">
                         <div class="widgets_container widget_menu">
                             <h3>Customer Service</h3>
                             <div class="footer_menu">
@@ -54,7 +56,36 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-7 col-sm-12">
+					
+					<div class="col-lg-3">
+				  <div class="widgets_container">
+                            <h3>GETt $10 Off</h3>
+                            <div class="footer_contact">
+                                <form action="#">
+                                  
+                                    <div class="search_box show">
+                                        <input placeholder="Enter Your Email....." type="text">
+                                        <button type="submit"><i class="fa fa-search"></i></button>
+                                    </div>
+                                </form>
+								
+								
+                            </div>
+
+                            <div class="footer_social">
+                                <ul>
+                                    <li><img src="assets/img/payments/payment-master.png" alt="" class="payments-img"/></li>
+                                    <li><img src="assets/img/payments/payment-paypal.png" alt="" class="payments-img"/></li>
+                                    
+                                    <li><img src="assets/img/payments/payment-skrill.png" alt="" class="payments-img"/></li>
+                                     <li><img src="assets/img/payments/payment-paypal.png" alt="" class="payments-img"/></li>
+                                </ul>
+                            </div>
+                        </div>
+			</div>				
+				
+					
+                    <div class="col-lg-3 col-md-7 col-sm-12">
                         <div class="widgets_container">
                             <h3>Instagram</h3>
                             <div class="footer_contact">
@@ -77,13 +108,17 @@
                                     <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
                                     <li><a class="instagram" href="#"><i class="fa fa-instagram"></i></a></li>
                                     <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
+                                    <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
+            <div class="col-lg-12">
+				<p class="text-center pt-4 mt-5" style="color:gray">Font Awesome licensed under SIL OFL 1.1 · Code licensed under MIT License · Documentation licensed under CC BY 3.0</p>
+			</div>
+			
+			</div>
         </div>
         <div class="footer_bottom">
             <div class="container">
@@ -95,7 +130,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6">
                         <div class="footer_payment text-right">
-                            developed by <strong>Smartsoft Ltd.</strong>
+                            develop by <strong>Smartsoft Ltd.</strong>
                         </div>
                     </div>
                 </div>

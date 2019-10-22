@@ -1,42 +1,49 @@
     <div class="shipping_area mb-60">
         <div class="container">
-            <div class="shipping_inner">
+            <div class=" row">
 
-                <div class="single_shipping">
-                    <div class="shipping_icone">
-                        <img src="assets/img/about/shipping2.png" alt="">
-                    </div>
-                    <div class="shipping_content">
-                        <h4>Free Delivery</h4>
+                <div class="col-lg-3 col-md-3 col-12 ">
+                   <div class="col-shipping-box border">
+                    <div class="shipping_content pl-4 pb-4 pt-4">
+					<i class="fa fa-id-card-o float-left pr-4 fa-2x" aria-hidden="true"></i>
+
+                        <h4 class="pt-1">Free Delivery</h4>
                         <p>For all oders over $120</p>
                     </div>
+				   </div>
                 </div>
-                <div class="single_shipping">
-                    <div class="shipping_icone">
-                        <img src="assets/img/about/shipping3.png" alt="">
-                    </div>
-                    <div class="shipping_content">
-                        <h4>Free Delivery</h4>
+			
+               <div class="col-lg-3 col-md-3 col-12 ">
+                   <div class="col-shipping-box border">
+                    <div class="shipping_content pl-4 pb-4 pt-4">
+					<i class="fa fa-id-card-o float-left pr-4 fa-2x" aria-hidden="true"></i>
+
+                        <h4 class="pt-1">Free Delivery</h4>
                         <p>For all oders over $120</p>
                     </div>
+				   </div>
                 </div>
-                <div class="single_shipping">
-                    <div class="shipping_icone">
-                        <img src="assets/img/about/shipping4.png" alt="">
-                    </div>
-                    <div class="shipping_content">
-                        <h4>Free Delivery</h4>
+				
+				 <div class="col-lg-3 col-md-3 col-12 ">
+                   <div class="col-shipping-box border">
+                    <div class="shipping_content pl-4 pb-4 pt-4">
+					<i class="fa fa-id-card-o float-left pr-4 fa-2x" aria-hidden="true"></i>
+
+                        <h4 class="pt-1">Free Delivery</h4>
                         <p>For all oders over $120</p>
                     </div>
+				   </div>
                 </div>
-                <div class="single_shipping">
-                    <div class="shipping_icone">
-                        <img src="assets/img/about/shipping5.png" alt="">
-                    </div>
-                    <div class="shipping_content">
-                        <h4>Free Delivery</h4>
+				
+				 <div class="col-lg-3 col-md-3 col-12 ">
+                   <div class="col-shipping-box border">
+                    <div class="shipping_content pl-4 pb-4 pt-4">
+					<i class="fa fa-id-card-o float-left pr-4 fa-2x" aria-hidden="true"></i>
+
+                        <h4 class="pt-1">Free Delivery</h4>
                         <p>For all oders over $120</p>
                     </div>
+				   </div>
                 </div>
             </div>
         </div>
