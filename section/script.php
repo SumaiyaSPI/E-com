@@ -20,7 +20,7 @@
 	
 	
 	
- <!-- Main JS -->
+
 	<script src="assets/js/owl.carousel.min.js"></script>
 <script>
             $(document).ready(function() {
