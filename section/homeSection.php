@@ -1050,8 +1050,8 @@
                     <div class="col-lg-6 col-md-6">
                         <figure class="single_banner">
                             <div class="banner_thumb">
-                                <a href="shop.html"><img src="assets/img/bg/width_12.jpg" alt=""></a>
-								 <a href="shop.html"><img src="assets/img/bg/width_11.png" alt=""></a>
+                                <a href="shop.html"><img class="banner-area-img" src="assets/img/bg/width_12.jpg" alt=""></a>
+								 <a href="shop.html"><img class="banner-area-img" src="assets/img/bg/width_11.png" alt=""></a>
                             </div>
                         </figure>
                     </div>
@@ -1077,6 +1077,7 @@
 							
 							<div class="col-md-6">
 							<figure class="single_banner">
+                                
                             <div class="banner_thumb">
                                 <div class="p2rightbottom_container">
                                     <div class="flex-item">
@@ -1106,7 +1107,8 @@
                                     <div class="item gif  text-center" >
                                         <div class="gif_text">
                                           <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. <i class="fa fa-quote-right" aria-hidden="true"></i>
+                          
+                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas.Lorem ipsum dolor sit amet fds<i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
                 					<img src="assets/img/profile.jpg" alt="" />
@@ -1121,7 +1123,8 @@
                               <div class="item gif  text-center" >
                                         <div class="gif_text">
                                           <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. <i class="fa fa-quote-right" aria-hidden="true"></i>
+                          
+                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas.Lorem ipsum dolor sit amet fds <i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
                 					<img src="assets/img/profile.jpg" alt="" />
