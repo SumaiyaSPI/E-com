@@ -29,5 +29,7 @@
      <?php include("section/newsLetter.php");?>
     <!--news letter popup start-->
     <?php include("section/script.php");?>
-    
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script type="text/javascript" src="assets/js/zoomOnHover.js"></script>
+    <script type="text/javascript" src="assets/js/shamsvue.js"></script>
 <?php include("section/foot.php");?>
