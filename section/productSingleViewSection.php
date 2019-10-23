@@ -153,7 +153,7 @@
                                     <div @click="decrease" class="minus fa fa-minus-circle"></div>
                                 </div>
 
-                                <button class="button" type="submit">add to cart</button>
+                                <button class="button add-to-cart" type="submit"><i class="fa fa-shopping-cart pull-left"></i> add to cart</button>
 
 
                             </div>
