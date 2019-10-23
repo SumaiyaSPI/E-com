@@ -7,40 +7,19 @@
                     <div class="product-details-tab">
                         <div class="row">
                             <div class=" col-md-2 single-zoom-thumb">
+
                                 <ul class="s-tab-zoom" id="gallery_01">
-                                    <li>
-                                        <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/productbig4.jpg" data-zoom-image="assets/img/product/productbig4.jpg">
-                                            <img src="assets/img/product/productbig4.jpg" alt="zo-th-1">
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/productbig1.jpg" data-zoom-image="assets/img/product/productbig1.jpg">
-                                            <img src="assets/img/product/productbig1.jpg" alt="zo-th-1">
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/productbig2.jpg" data-zoom-image="assets/img/product/productbig2.jpg">
-                                            <img src="assets/img/product/productbig2.jpg" alt="zo-th-1">
-                                        </a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/productbig3.jpg" data-zoom-image="assets/img/product/productbig3.jpg">
-                                            <img src="assets/img/product/productbig3.jpg" alt="zo-th-1">
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/productbig3.jpg" data-zoom-image="assets/img/product/productbig3.jpg">
-                                            <img src="assets/img/product/productbig3.jpg" alt="zo-th-1">
+                                    <li v-for="(thumb,idx) in product.images.thumb" @click.prevent="selectImage(idx)">
+                                        <a href="#" class="elevatezoom-gallery">
+                                            <img v-bind:src="thumb" alt="zo-th-1">
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                             <div id="img-1" class="col-md-10 zoomWrapper single-zoom">
                                 <a href="#">
-                                    <img id="zoom1" src="assets/img/product/productbig5.jpg" data-zoom-image="assets/img/product/productbig5.jpg" alt="big-1">
+                                    <zoom-on-hover v-bind="product.images" :scale="2"></zoom-on-hover>
+                                    <!-- <img id="zoom1" src="assets/img/product/productbig5.jpg" data-zoom-image="assets/img/product/productbig5.jpg" alt="big-1"> -->
                                 </a>
                                 <div class="product_options">
                                     <span class="btn" style="width:40%"><i class="fa fa-puzzle-piece"></i> Embroidery &amp; Print</span>
@@ -175,7 +154,7 @@
                                 </div>
 
                                 <button class="button" type="submit">add to cart</button>
-                                
+
 
                             </div>
 

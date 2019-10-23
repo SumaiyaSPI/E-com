@@ -52,4 +52,5 @@
 
 
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src="assets/js/vue.js"></script>
+    <script type="text/javascript" src="assets/js/zoomOnHover.js"></script>
+    <script type="text/javascript" src="assets/js/shamsvue.js"></script>
