@@ -5295,7 +5295,7 @@ margin-left:120px;
 }
 
 .product_tab_btn ul li {
-    margin-right: 35px;
+    margin-right: 7px;
 }
 
 .product_tab_btn ul li:last-child {
@@ -5326,7 +5326,7 @@ margin-left:120px;
 }
 
 .product_tab_btn ul li a:hover {
-    color: #635f60;
+    color: #f9f6f7;
 }
 
 .product_tab_btn ul li a.active {
