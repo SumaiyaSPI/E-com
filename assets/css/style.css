@@ -407,6 +407,8 @@ body {
     visibility: visible;
     font-family: "Rubik", sans-serif;
     color: #222222;
+    margin-left:1.5em;
+    margin-right:1.5em
 }
 
 h1,
