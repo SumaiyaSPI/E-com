@@ -4080,6 +4080,10 @@ textarea:-ms-input-placeholder {
     }
 }
 
+.banner_area .owl-dots{
+margin-left:120px;
+} 
+
 .slider_area .owl-dots {
     position: absolute;
     bottom: 20px;
