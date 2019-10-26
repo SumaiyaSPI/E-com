@@ -2,7 +2,7 @@
         
             <div class="container">
                 <div class="categories_product_inner">
-                    <div class="single_categories_product" style="background: url('assets/img/bg/person2.jpg'); background-size:cover;">
+                    <div class="single_categories_product" style="background: url('assets/img/bg/person.jpg'); background-size:cover;">
 					 <div class="categories_product_content text-center">
                             <h4 class="text-center">Stylish</h4>
                             <div class="hover_content">
@@ -21,7 +21,7 @@
                             
                     </div>
                     
-                   <div class="single_categories_product" style="background: url('assets/person.jpg'); background-size:cover;">
+                   <div class="single_categories_product" style="background: url('assets/img/bg/person5.jpg'); background-size:cover;">
                         <div class="categories_product_content text-center">
                             <h4 class="text-center">Stylish</h4>
                             <div class="hover_content">
@@ -39,7 +39,7 @@
                             
                     </div> 
                     
-                <div class="single_categories_product" style="background: url('assets/person.jpg'); background-size:cover;">
+                <div class="single_categories_product" style="background: url('assets/img/bg/person2.jpg'); background-size:cover;">
                         <div class="categories_product_content text-center">
                             <h4 class="text-center">Stylish</h4>
                             <div class="hover_content">
@@ -57,7 +57,7 @@
                             
                     </div>
                 
-                    <div class="single_categories_product" style="background: url('assets/person.jpg'); background-size:cover;">
+                    <div class="single_categories_product" style="background: url('assets/img/bg/person3.jpg'); background-size:cover;">
                         <div class="categories_product_content text-center">
                             <h4 class="text-center">Stylish</h4>
                             <div class="hover_content">
@@ -75,7 +75,7 @@
                             
                     </div>
                     
-                    <div class="single_categories_product" style="background: url('assets/person.jpg'); background-size:cover;">
+                    <div class="single_categories_product" style="background: url('assets/img/bg/person4.jpg'); background-size:cover;">
                         <div class="categories_product_content text-center">
                             <h4 class="text-center">Stylish</h4>
                             <div class="hover_content">
