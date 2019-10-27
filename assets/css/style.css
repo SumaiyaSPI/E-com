@@ -2395,6 +2395,8 @@ textarea:-ms-input-placeholder {
     -o-transition: 0.3s;
     transition: 0.3s;
     background: #ebebeb;
+    margin-left: 25px;
+    marin-right: 12px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2410,7 +2412,7 @@ textarea:-ms-input-placeholder {
 }
 
 .hover_category:hover {
-    background: #008f95;
+    background:white;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2486,13 +2488,14 @@ textarea:-ms-input-placeholder {
 .hover_category .select_option {
     border: 0;
     background: inherit;
-    height: 54px;
-    line-height: 54px;
+    height: 48px;
+    line-height: 49px;
     padding-left: 25px;
     padding-right: 40px;
     font-size: 14px;
     min-width: 180px;
-    border-radius: 4px 0 0 4px;
+    margin-left: 3px;
+    padding-top: 7px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2555,16 +2558,18 @@ textarea:-ms-input-placeholder {
     }
 }
 
+
 .search_container form {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    border-radius: 5px;
-    background: #fff;
+    align-contentbackground: #fff;
     width: 100%;
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
+    height: 50px;
+    margin-top: 1px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2691,7 +2696,7 @@ textarea:-ms-input-placeholder {
     position: absolute;
     top: -2px;
     bottom: -2px;
-    right: -2px;
+    right: -3px;
     background: #008f95;
     color: #fff;
     font-weight: 500;
@@ -2701,6 +2706,7 @@ textarea:-ms-input-placeholder {
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
+    height: 51px;
 }
 
 .search_box button:hover {
@@ -2749,6 +2755,8 @@ textarea:-ms-input-placeholder {
     -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
+    margin-left:30px;
+    margin-bottom: -2px;
 }
 
 .header_bigsale a:hover {
@@ -2784,13 +2792,14 @@ textarea:-ms-input-placeholder {
 }
 
 .categories_title {
-    border: 1px solid #008f95;
+    border: 1px solid black;
     padding: 0 30px;
     position: relative;
     cursor: pointer;
-    height: 52px;
+    height: 48px;
     line-height: 52px;
-    border-radius: 4px;
+    /*! border-radius: 4px; */
+    width: 253px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2823,10 +2832,10 @@ textarea:-ms-input-placeholder {
 }
 
 .categories_title h2 {
-    font-size: 13px;
+    font-size: 14px;
     font-weight: 500;
     line-height: 26px;
-    color: #008f95;
+    color: black;
     cursor: pointer;
     margin-bottom: 0;
     display: inline-block;
@@ -5001,7 +5010,7 @@ margin-left:120px;
 
 .single_product {
     border-radius: 4px;
-    background: #f4f3f3;
+    background: #fff;
 }
 
 .single_product:hover {
@@ -5010,10 +5019,7 @@ margin-left:120px;
     box-shadow: 0px 0px 13.5px 1.5px rgba(0, 0, 0, 0.07);
 }
 
-.single_product:hover .action_links {
-    opacity: 1;
-    visibility: visible;
-}
+
 
 .single_product:hover .product_thumb a.secondary_img {
     opacity: 1;
@@ -5230,11 +5236,12 @@ margin-left:120px;
 }
 
 .action_links {
+    margin-left:20px;
     opacity: 0;
     visibility: hidden;
     -webkit-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
-    transition: all 0.3s ease;
+    transition: all .5s ease;
     position: absolute;
     left: 185px;
     right: 200px;
@@ -5242,6 +5249,14 @@ margin-left:120px;
     z-index: 9;
     text-align: center;
 }
+
+.single_product:hover .action_links {
+    opacity: 1;
+    visibility: visible;
+    margin-left:-15px !important;
+}
+
+
 
 .action_links ul li {
     display: inline-block;
@@ -13081,8 +13096,14 @@ header-search {
     color: #008f95;
 }
 
-.categories_title:hover {
-    background: #008f95;
+.categories_title:hover h2{
+    color:black !important;
+    background: white;
+}
+
+.categories_title h2{
+    font-weight: 600;
+    color: #373434;
 }
 
 .categories_title:hover.categories_title h2 {
