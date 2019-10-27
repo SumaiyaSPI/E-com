@@ -1046,46 +1046,41 @@
         <!--banner area start-->
         <div class="banner_area mb-55">
             <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6">
+                <div class="row" style="height:570px:width:521px">
+                    <div class="col-lg-6 col-md-6" style="margin-right:12px">
                         <figure class="single_banner">
                             <div class="banner_thumb">
-								 <a href="shop.html">
-                                     <img width="98%" height="521px" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid17.jpg" alt=""></a>
+                                     <img width="100%" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid17.jpg" alt="">
                             </div>
                         </figure>
                     </div>
-                    <div class="col-lg-3 col-md-3">
+                    <div class="col" >
                         <div class="row">
-                            <figure class="single_banner" style="height:50%;width:100%">
+                            <figure class="single_banner" style="height:100%;margin-top:-2px" >
                                 <div class="banner_thumb">
-                                    <a href="shop.html">
-                                        <img width=100% height="260" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid18.jpg" alt=""></a>
+                                        <img width="400px" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid18.jpg" alt=""></a>
                                 </div>
                             </figure>      
                         </div>
 
                         <div class="row">
-                            <figure class="single_banner" style="height:50%;width:100%">
+                            <figure class="single_banner" style="margin-top:8px">
                                 <div class="banner_thumb">
                                     <a href="shop.html">
-                                        <img width=100% height="50%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid19.jpg" alt=""></a>
+                                        <img width="400px" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid19.jpg" alt=""></a>
                                 </div>
                             </figure>      
                         </div>
-
-                        
                     </div>
-                    <div class="col-lg-3 col-md-3 abc">
-                        <figure class="single_banner pull-left">
+                    
+                    <div class="col" style="margin-left:-2.8px;">
+                    <figure class="single_banner">
                             <div class="banner_thumb">
-                                <a href="shop.html">
-                                    <img width="289" height="538" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid20.jpg" alt=""></a>
+                                     <img style="height:566px" width="400px" width="100%" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid20.jpg" alt="">
                             </div>
                         </figure>
-						
-						
                     </div>
+
                 </div>
             </div>
         </div>
