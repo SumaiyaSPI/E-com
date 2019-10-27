@@ -2389,6 +2389,7 @@ textarea:-ms-input-placeholder {
 /*search container css here*/
 
 .hover_category {
+    color:black !important;
     position: relative;
     border-radius: 4px 0 0 4px;
     -webkit-transition: 0.3s;
@@ -2412,7 +2413,7 @@ textarea:-ms-input-placeholder {
 }
 
 .hover_category:hover {
-    background:white;
+    color:black !important;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2428,7 +2429,7 @@ textarea:-ms-input-placeholder {
 }
 
 .hover_category:hover>.select_option span.current {
-    color: #ffffff;
+    color: black;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
