@@ -205,7 +205,7 @@
 
 .author_item {
     padding-top: 46px;
-    margin-left: 85px;
+    margin-left: 139px;
 }
 
 .author_item span {
@@ -4093,7 +4093,7 @@ textarea:-ms-input-placeholder {
 }
 
 .banner_area .owl-dots{
-margin-left:120px;
+margin-left:229px;
 } 
 
 .slider_area .owl-dots {
@@ -13256,4 +13256,34 @@ header-search {
     100% {
         transform: translateX(-10px);
     }
+}
+
+
+.countdown_area{
+    display:flex;
+    flex-direction: row;
+    justify-content: stretch;
+    border: 2px solid white;
+}
+
+.countdown_area  .single_countdown{
+    margin-left:2px;
+    background: #5ACEE9;
+}
+
+.countdown_area  .countdown_number{ 
+    background: transparent;
+}
+.timeSeparator{
+    background: white;
+    padding-top:1em;
+
+}
+
+.countdown_number{
+
+}
+
+.countdown_title{
+    margin-top:-20px;
 }
