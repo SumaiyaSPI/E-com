@@ -1130,7 +1130,7 @@
                     			 </figure>
                                         </div>
                                         
-					<div class="col-lg-3 col-md-6">
+            					<div class="col-lg-3 col-md-6">
 					<h2 class="h1 pt-3" style="text-align:left">Latest Blog</h2>
                       <article class="single_related article_one">
                         <figure>
