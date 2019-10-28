@@ -24,9 +24,11 @@
     <?php include("section/shippingArea.php");?>
     <!--shipping area end-->
 </div>
-    <!--Categories product area start-->
+
+<!--Categories product area start-->
     <?php include("section/catProduct.php");?>
-   
+
+<br>
     <div style="margin-left:4em;margin-right:4em">
     <!--home section bg area start-->
     <?php include("section/homeSection.php");?>
