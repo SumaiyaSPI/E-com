@@ -26,42 +26,50 @@
                                             <li><a href="#">XS</a></li>
                                         </ul>
                                     </li>
-                                    <li class="size_range_product_sidebar"><a href="#">Size Range</a>
-                                        <div>
-                                            <label for="country">From<span></span></label>
-                                            <select name="size" id="size">
-                                                <option value="2">2</option>
-                                                <option value="3">4</option>
-                                                <option value="4">8</option>
-                                                <option value="5">10</option>
-                                                <option value="6">12</option>
-                                                <option value="7">14</option>
-                                                <option value="8">16</option>
-                                                <option value="9">18</option>
-                                                <option value="9">20</option>
-                                                <option value="9">22</option>
-                                                <option value="9">24</option>
-                                            </select>
 
-                                            <label for="country">To<span></span></label>
-                                            <select name="size" id="size">
-                                                <option value="2">2</option>
-                                                <option value="3">4</option>
-                                                <option value="4">8</option>
-                                                <option value="5">10</option>
-                                                <option value="6">12</option>
-                                                <option value="7">14</option>
-                                                <option value="8">16</option>
-                                                <option value="9">18</option>
-                                                <option value="9">20</option>
-                                                <option value="9">22</option>
-                                                <option value="9">24</option>
-                                            </select>
-                                            <button class="btn btn-outline-dark btn-sm">Sort</button>
+                                    <div class="product_variant color cat_color">
+                                        <h4>color</h4>
+                                        <ul>
+                                            <li class="color1"><a href="#"></a></li>
+                                            <li class="color2"><a href="#"></a></li>
+                                            <li class="color3"><a href="#"></a></li>
+                                            <li class="color4"><a href="#"></a></li>
+                                        </ul>
+                            </div>
+                            <div class="product_variant color cat_color">
+                                        <h4>Color Family</h4><br>
+                                        <div class="custom-control custom-checkbox">
+                                     <div class="checkbox">
+                                          <label><input type="checkbox" value=""> Multicolor</label>
                                         </div>
-                                    </li>
-                                    <li><a href="#">Brand</a>
+                                        <div class="checkbox">
+                                          <label><input type="checkbox" value=""> Navy Blue</label>
+                                        </div>
+                                        <div class="checkbox disabled">
+                                          <label><input type="checkbox"> Red</label>
+                                        </div>
+                                        <div class="checkbox disabled">
+                                          <label><input type="checkbox"> Black</label>
+                                        </div> 
+                                        <div class="checkbox disabled">
+                                          <label><input type="checkbox"> Blue</label>
+                                        </div> 
+                                        <div class="checkbox disabled">
+                                          <label><input type="checkbox"> Maroon</label>
+                                        </div> 
+                                        <div class="checkbox disabled">
+                                          <label><input type="checkbox"> Pink</label>
+                                        </div> 
+                                        <div class="checkbox disabled">
+                                          <label><input type="checkbox"> White</label>
+                                        </div> 
 
+                                    </div>
+                            </div>
+
+
+                                    <li><a href="#">Brand</a>
+                                        <br>
                                     <div class="custom-control custom-checkbox">
                                      <div class="checkbox">
                                           <label><input type="checkbox" value=""> HERMES</label>
@@ -94,45 +102,6 @@
                                 </ul>
                             </div>
 
-                            <div class="product_variant color cat_color">
-                                        <h3>color</h3>
-                                        <ul>
-                                            <li class="color1"><a href="#"></a></li>
-                                            <li class="color2"><a href="#"></a></li>
-                                            <li class="color3"><a href="#"></a></li>
-                                            <li class="color4"><a href="#"></a></li>
-                                        </ul>
-                            </div>
-                            <div class="product_variant color cat_color">
-                                        <h3>Color Family</h3>
-                                        <div class="custom-control custom-checkbox">
-                                     <div class="checkbox">
-                                          <label><input type="checkbox" value=""> Multicolor</label>
-                                        </div>
-                                        <div class="checkbox">
-                                          <label><input type="checkbox" value=""> Navy Blue</label>
-                                        </div>
-                                        <div class="checkbox disabled">
-                                          <label><input type="checkbox"> Red</label>
-                                        </div>
-                                        <div class="checkbox disabled">
-                                          <label><input type="checkbox"> Black</label>
-                                        </div> 
-                                        <div class="checkbox disabled">
-                                          <label><input type="checkbox"> Blue</label>
-                                        </div> 
-                                        <div class="checkbox disabled">
-                                          <label><input type="checkbox"> Maroon</label>
-                                        </div> 
-                                        <div class="checkbox disabled">
-                                          <label><input type="checkbox"> Pink</label>
-                                        </div> 
-                                        <div class="checkbox disabled">
-                                          <label><input type="checkbox"> White</label>
-                                        </div> 
-
-                                    </div>
-                            </div>
 
                             <div class="widget_list widget_filter">
                                 <h3>Filter by price</h3>

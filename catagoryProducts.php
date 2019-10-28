@@ -8,14 +8,17 @@
     <?php include("section/offcanvas.php");?>
     <!--Offcanvas menu area end-->
     <!--header area start-->
-    
+    <div style="margin-left:4em;margin-right:4em">
     <?php include("section/header.php");?>
     <!--header area end-->
+    </ div>
+    <div>
 
-
+    <div style="margin-left:4em;margin-right:4em">
     <!--Product section bg area start-->
    <?php include("section/catagoryProductSection.php");?>
     <!--Product section bg area end-->
+</div>
 
     <!--footer area start-->
     <?php include("section/footer.php");?>

@@ -7918,7 +7918,7 @@ color:grey;
 /* 15. product details css here */
 
 .product_page_bg {
-    background: #F5F5F9;
+    /*! background: #F5F5F9; */
     padding: 60px 0 75px;
 }
 
@@ -7930,7 +7930,7 @@ color:grey;
 
 .product_details_wrapper {
     background: #ffffff;
-    border: 1px solid #ebebeb;
+    /*! border: 1px solid #ebebeb; */
 }
 
 .product_details {
