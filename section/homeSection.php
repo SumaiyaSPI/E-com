@@ -1092,14 +1092,13 @@
                 <div class="row">
                     <div class="col-lg-3 col-md-6">
 					<h2 class="h1 pt-3" style="text-align:left">Testimonials</h2>
-                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/8-bgclient.png'); background-size:cover; background-size: cover;height: 87%;width: 94%;background-position: left;">
+                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/8-bgclient.png'); background-size:cover; background-size: cover;height: 88%;width: 93%;background-position: left;">
                         
 						<div class="owl-carousel owl-theme" >
                                     <div class="item gif  text-center" >
                                         <div class="gif_text">
                                           <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                          
-                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas.Lorem ipsum dolor sit amet fds<i class="fa fa-quote-right" aria-hidden="true"></i>
+                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
                 					<img src="assets/img/profile.jpg" alt="" />
@@ -1114,8 +1113,7 @@
                               <div class="item gif  text-center" >
                                         <div class="gif_text">
                                           <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                          
-                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas.Lorem ipsum dolor sit amet fds <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
                 					<img src="assets/img/profile.jpg" alt="" />
