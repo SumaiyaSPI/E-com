@@ -2963,7 +2963,7 @@ textarea:-ms-input-placeholder {
     border: 1px solid #ebebeb;
     background: #fff;
     position: absolute;
-    width: 100%;
+    width: 110%;
     top: 140%;
     z-index: 9;
 }
@@ -3290,11 +3290,14 @@ textarea:-ms-input-placeholder {
     font-size: 13px;
     font-weight: 400;
     line-height: 30px;
+    padding-left:5px;
 }
+
 
 .categorie_sub_menu li a:hover {
     color: white;
     background: linear-gradient(to left, #008f95 1%, #66ccff 100%);
+    border-left: 2px solid black ;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
