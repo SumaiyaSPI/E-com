@@ -3,7 +3,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6">
                         <figure class="single_banner">
-                            <div class="banner_thumb">
+                            <div class="banner_thumb  ml-4">
                                 <a href="shop.html"><img class="banner-area-img" src="assets/img/bg/width_12.jpg" alt=""></a>
 								 <a href="shop.html"><img class="banner-area-img" src="assets/img/bg/width_11.png" alt=""></a>
                             </div>

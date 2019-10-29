@@ -7,7 +7,7 @@
                     <div class="col-12 col-md-12 offset-md-3">
                         <div class="product_header">
                             <div class="product_tab_btn text-center">
-							<h3 class="mb-3">YOUR COLLECTION</h3>
+							<h3 class="mb-4">YOUR COLLECTION</h3>
                                 <ul class="nav text-center" role="tablist">
                                     <li>
                                         <a class="active" data-toggle="tab" href="#Fashion" role="tab" aria-controls="Fashion" aria-selected="true">
@@ -42,8 +42,8 @@
                                 <figure>
 
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/product5.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/product6.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/1.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/2.jpg" alt=""></a>
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -63,15 +63,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -91,8 +92,8 @@
                                 <figure>
 
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/product5.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/product6.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/3.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/4.jpg" alt=""></a>
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -112,15 +113,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -140,8 +142,8 @@
                                 <figure>
 
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/product5.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/product6.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/7.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/8.jpg" alt=""></a>
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -161,15 +163,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -189,8 +192,8 @@
                                 <figure>
 
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/product5.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/product6.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/5.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/6.jpg" alt=""></a>
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -210,15 +213,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -238,8 +242,8 @@
                                 <figure>
 
                                     <div class="product_thumb">
-                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/product5.jpg" alt=""></a>
-                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/product6.jpg" alt=""></a>
+                                        <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/9.jpg" alt=""></a>
+                                        <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/10.jpg" alt=""></a>
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -259,15 +263,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -313,15 +318,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -362,15 +368,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -411,15 +418,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -460,15 +468,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -509,15 +518,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -564,15 +574,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -613,15 +624,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -662,15 +674,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -711,15 +724,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -760,15 +774,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -816,15 +831,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -865,15 +881,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -914,15 +931,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -963,15 +981,16 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
@@ -1012,15 +1031,17 @@
                                                 <div data-countdown="2021/02/15"></div>
                                             </div>
                                         <div class="product_content_inner">
+                                          
+                                            <h2 class="product_name_brand_name">G-Star Raw</h2>
                                             <h3 class="product_name"><a href="product-countdown.html">Women's Designer Top</a></h3>
 											<h4 class="product_name_h4"><a href="">New Markdown</a></h4>
                                             <div class="price_box">
-                                                <span class="old_price">Reg.$599.99</span><br />
-                                                <span class="current_price">Sale$599.99</span>
+                                                <span class="old_price">Reg. $599.99</span><br />
+                                                <span class="current_price">Sale $599.99</span>
                                             </div>
                                             <div class="countdown_text mb-3">
                                                 <a href="">Extra 15% off use:SUNDAY </a>
-												<a href="">Free shipping $175%</a>
+												<a href="" class="chng-color">Free shipping at $175</a>
                                             </div>
                                            <div class="star_icon">
 										   <i class="fa fa-star" aria-hidden="true"></i>
