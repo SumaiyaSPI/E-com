@@ -61,34 +61,13 @@
                         </div>
                         <!-- Add Arrows -->
 
-                        <div class="swiper-pagination"></div>
                     </div> 
                     <div class="swiper-container gallery-thumbs">
                         
                     </div>
 
                 </div>
-                <!-- <div class="s_banner col-lg-3 col-md-12">
-                    
-                    <div class="sidebar_banner_area">
-                        <figure class="single_banner mb-20">
-                            <div class="banner_thumb">
-                                <a href="shop.html"><img src="assets/img/bg/banner1.jpg" alt=""></a>
-                            </div>
-                        </figure>
-                        <figure class="single_banner mb-20">
-                            <div class="banner_thumb">
-                                <a href="shop.html"><img src="assets/img/bg/banner2.jpg" alt=""></a>
-                            </div>
-                        </figure>
-                        <figure class="single_banner">
-                            <div class="banner_thumb">
-                                <a href="shop.html"><img src="assets/img/bg/banner3.jpg" alt=""></a>
-                            </div>
-                        </figure>
-                    </div>
-                    
-                </div> -->
+               
             </div>
         </div>
     </section>
