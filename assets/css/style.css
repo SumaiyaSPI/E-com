@@ -115,10 +115,13 @@
 }
 
 .deals_product ul li a:hover {
-    border: 1px solid grey;
-    border-radius: 30px;
+    border-radius: 33px;
     background: #008f95;
     color: white;
+}
+
+.deals_product ul li a {
+    transition: 0s;
 }
 
 .hot {
@@ -2963,7 +2966,7 @@ textarea:-ms-input-placeholder {
     border: 1px solid #ebebeb;
     background: #fff;
     position: absolute;
-    width: 100%;
+    width: 110%;
     top: 140%;
     z-index: 9;
 }
@@ -3290,11 +3293,14 @@ textarea:-ms-input-placeholder {
     font-size: 13px;
     font-weight: 400;
     line-height: 30px;
+    padding-left:5px;
 }
+
 
 .categorie_sub_menu li a:hover {
     color: white;
     background: linear-gradient(to left, #008f95 1%, #66ccff 100%);
+    border-left: 2px solid black ;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -5237,7 +5243,7 @@ margin-left:229px;
 }
 
 .action_links {
-    margin-left:20px;
+    margin-left:40px;
     opacity: 0;
     visibility: hidden;
     -webkit-transition: all 0.3s ease;
@@ -5254,7 +5260,7 @@ margin-left:229px;
 .single_product:hover .action_links {
     opacity: 1;
     visibility: visible;
-    margin-left:-15px !important;
+    margin-left:5px !important;
 }
 
 
@@ -5368,16 +5374,18 @@ margin-left:229px;
 .product_tab_btn ul li a {
     font-size: 14px;
     line-height: 24px;
-    text-transform: capitalize;
+    text-transform: uppercase;
     display: block;
     padding: .6em;
-    border: 1px solid #ebebeb;
-    border-radius: 33px;
+    /*! border: 1px solid #ebebeb; */
+    border-radius: 50px;
     margin-top: 10px;
+
+
 }
 
 .product_tab_btn ul li a:hover {
-    color: #f9f6f7;
+    /* color: #f9f6f7; */
 }
 
 .product_tab_btn ul li a.active {
@@ -7915,7 +7923,7 @@ color:grey;
 /* 15. product details css here */
 
 .product_page_bg {
-    background: #F5F5F9;
+    /*! background: #F5F5F9; */
     padding: 60px 0 75px;
 }
 
@@ -7927,7 +7935,7 @@ color:grey;
 
 .product_details_wrapper {
     background: #ffffff;
-    border: 1px solid #ebebeb;
+    /*! border: 1px solid #ebebeb; */
 }
 
 .product_details {
@@ -13262,7 +13270,7 @@ header-search {
 .countdown_area{
     display:flex;
     flex-direction: row;
-    justify-content: stretch;
+    justify-content: center;
     border: 2px solid white;
 }
 

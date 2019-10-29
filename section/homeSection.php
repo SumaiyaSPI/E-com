@@ -1,8 +1,10 @@
-    <div class="home_section_bg">
+<div class="clearfix">...</div>
+
+<div class="home_section_bg">
         <div class="product_area deals_product">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 col-md-6 offset-md-4">
+                    <div class="col-12 col-md-12 offset-md-3">
                         <div class="product_header">
                             <div class="product_tab_btn text-center">
 							<h3 class="mb-3">YOUR COLLECTION</h3>

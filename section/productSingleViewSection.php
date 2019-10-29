@@ -23,8 +23,8 @@
                                 </a>
                                 <div class="product_options">
                                     <span class="btn" style="width:40%"><i class="fa fa-puzzle-piece"></i> Embroidery &amp; Print</span>
-                                    <span class="btn" style="width:20%"><i class="fa fa-play"></i> Video</span>
-                                    <span class="btn" style="width:40%"><i class="fa fa-thumb-tack"></i> Article recommendation</span>
+                                    <span class="btn" style="width:15%"><i class="fa fa-play"></i> Video</span>
+                                    <span class="btn" style="width:45%"><i class="fa fa-thumb-tack"></i> Article recommendation</span>
                                 </div>
                             </div>
                         </div>

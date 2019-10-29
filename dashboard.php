@@ -7,34 +7,19 @@
    <!--Offcanvas menu area start-->
     <?php include("section/offcanvas.php");?>
     <!--Offcanvas menu area end-->
+    
     <!--header area start-->
-    
     <div style="margin-left:4em;margin-right:4em">
-    <?php include("section/header.php");?>
+        <?php include("section/header.php");?>
     </div>
+    <!-- Header Area ends -->
+
     
-	<!--header area end-->
+    <!-- Dashboard  Start-->
     <div style="margin-left:4em;margin-right:4em">
-    <!--slider area start-->
-    <?php include("section/slider.php");?>
-</div>
-    <!--slider area end-->
-    <div style="margin-left:4em;margin-right:4em">
-    <!--shipping area start-->
-    <?php include("section/shippingArea.php");?>
-    <!--shipping area end-->
-</div>
-
-<!--Categories product area start-->
-    <?php include("section/catProduct.php");?>
-
-<br>
-    <div style="margin-left:4em;margin-right:4em">
-    <!--home section bg area start-->
-    <?php include("section/homeSection.php");?>
-    <!--home section bg area end-->
-</div>
-
+    <?php include("section/dashboard.php");?>
+    </div>
+<!-- Dashboard Ends -->
     <!--footer area start-->
     <?php include("section/footer.php");?>
     <!--footer area end-->
