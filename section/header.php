@@ -1,10 +1,11 @@
     <header>
 
         <div class="main_header header_padding">
-            <div class="container">
+
                 <!--header top start-->
                 <div class="header_top">
-                    <div class="row align-items-center">
+                  <div class="container">
+                        <div class="row ">
                         <div class="col-lg-6 col-md-6">
                             <div class="antomi_message ">
                                 <ul style="display:flex">
@@ -25,7 +26,10 @@
                             </div>
                         </div>
                     </div>
+                  </div>
                 </div>
+
+
                 <!--header top start-->
 
                 <!--header middel start-->
@@ -252,7 +256,7 @@
                                 </div><!-- /.col -->
 
                                 <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none">
-                                    <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:13px; width:55px;">
+                                    <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:55px;">
                                 </div>
 
                                 <div class="hidden-xs hidden-xs hidden-sm col-md-4 col-lg-4 col-sm-d-none">
@@ -590,12 +594,8 @@ Turbo System <i class="fa fa-angle-right"></i></a>
                     </div>
                 </div>
 
-            </div>
+       
 
         </div>
-        </div>
-        </div>
-        <!--header bottom end-->
-        </div>
-        </div>
+
     </header>

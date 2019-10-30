@@ -1113,9 +1113,9 @@
         <div class="banner_area banner_style2 mb-55">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-3 col-md-6">
+             <div class="col-lg-4 col-md-4">
 					<h2 class="h1 pt-3" style="text-align:left">Testimonials</h2>
-                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/8-bgclient.png'); background-size:cover; background-size: cover;height: 88%;width: 93%;background-position: left;">
+                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/8-bgclient.png'); background-size:cover; background-size: cover;height: 85%;width: 97%;background-position: left;">
                         
 						<div class="owl-carousel owl-theme" >
                                     <div class="item gif  text-center" >
@@ -1150,18 +1150,29 @@
                             </div>
                                              
                             </div>						
-                    			 </figure>
-                                        </div>
+                    		 </figure>
+                            </div>
                                         
-            					<div class="col-lg-3 col-md-6">
-					<h2 class="h1 pt-3" style="text-align:left">Latest Blog</h2>
+            <div class="col-lg-8 col-md-8">
+<style type="text/css" id="slider-css"></style>
+<div class="spe-cor">
+        <h2 class="h1 pt-3">Latest Blog</h2>
+        <div class="row">
+            <div id="slider-1" class="carousel carousel-by-item slide" data-ride="carousel">
+                <div class="carousel-inner" role="listbox">
+                    <div class="carousel-item active">
+                        
+                   <div class="col-lg-4 col-md-6 ">
                       <article class="single_related article_one">
                         <figure>
-                         <div class="related_thumb">
-                           <img src="assets/img/blog/blog7.jpg" alt="">
-						    <div class="overlay">
-							   <a href=""></a>
-							</div>
+                          <div class="related_thumb mt-4">
+
+                        <a href=""><img src="assets/img/blog/blog7.jpg" alt=""></a>
+                          <span class="label_product_category">Category</span>
+                            <div class="overlay">
+                               <a href=""></a>
+                            </div>
+                        
                            </div>
                           <figcaption class="related_content pt-3">
                             <h4><a href="#">Post with Gallery</a></h4>
@@ -1171,61 +1182,155 @@
                              </div>
                            </figcaption>
                             <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
-                            <button class="btn btn-info">Read more...</button>
+                            <button class="btn btn-info">Read more</button>
                       </figure>
                    </article>
-                </div>										
-					<div class="col-lg-3 col-md-6 mt-5">
-                      <article class="single_related article_one">
-                        <figure>
-                         <div class="related_thumb mt-4">
-                           <img src="assets/img/blog/blog7.jpg" alt="">
-						    <div class="overlay">
-							   <a href=""></a>
-							</div>
-                           </div>
-                          <figcaption class="related_content pt-3">
-                            <h4><a href="#">Post with Gallery</a></h4>
-                            <div class="blog_meta">
-                             <span class="author">By : <a href="#">admin</a> / </span>
-                               <span class="meta_date"> April 11, 2019 </span>
-                             </div>
-                           </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
-                            <button class="btn btn-info">Read more...</button>
-                      </figure>
-                   </article>
-                </div>								
-									
-					<div class="col-lg-3 col-md-6 mt-5">
-                      <article class="single_related article_one ">
-                        <figure>
-                         <div class="related_thumb mt-4">
-                           <img src="assets/img/blog/blog7.jpg" alt="">
-						    <div class="overlay">
-							   <a href=""></a>
-							</div>
-                           </div>
-                          <figcaption class="related_content pt-3">
-                            <h4><a href="#">Post with Gallery</a></h4>
-                            <div class="blog_meta">
-                             <span class="author">By : <a href="#">admin</a> / </span>
-                               <span class="meta_date"> April 11, 2019 </span>
-                             </div>
-                           </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
-                            <button class="btn btn-info">Read more...</button>
-                      </figure>
-                   </article>
-                </div>									
-							
-							
                 </div>
+                </div>
+                
+                    <div class="carousel-item">
+                      <div class="col-lg-4 col-md-6">
+                      <article class="single_related article_one">
+                        <figure>
+                           <div class="related_thumb mt-4">
+
+                        <a href=""><img src="assets/img/blog/blog7.jpg" alt=""></a>
+                          <span class="label_product_category">Category</span>
+                            <div class="overlay">
+                               <a href=""></a>
+                            </div>
+                        
+                           </div>
+                          <figcaption class="related_content pt-3">
+                            <h4><a href="#">Post with Gallery</a></h4>
+                            <div class="blog_meta">
+                             <span class="author">By : <a href="#">admin</a> / </span>
+                               <span class="meta_date"> April 11, 2019 </span>
+                             </div>
+                           </figcaption>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
+                            <button class="btn btn-info">Read more</button>
+                      </figure>
+                   </article>
+                </div>
+                    </div>
+
+                    <div class="carousel-item">
+                       <div class="col-lg-4 col-md-6 ">
+                      <article class="single_related article_one">
+                        <figure>
+                          <div class="related_thumb mt-4">
+
+                        <a href=""><img src="assets/img/blog/blog7.jpg" alt=""></a>
+                          <span class="label_product_category">Category</span>
+                            <div class="overlay">
+                               <a href=""></a>
+                            </div>
+                        
+                           </div>
+                          <figcaption class="related_content pt-3">
+                            <h4><a href="#">Post with Gallery</a></h4>
+                            <div class="blog_meta">
+                             <span class="author">By : <a href="#">admin</a> / </span>
+                               <span class="meta_date"> April 11, 2019 </span>
+                             </div>
+                           </figcaption>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
+                            <button class="btn btn-info">Read more</button>
+                      </figure>
+                   </article>
+                </div>
+                    </div>
+                </div>
+
+                <a class="carousel-control-prev" href="#slider-1" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#slider-1" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
         </div>
+ 
+</div>
+
+
+            </div>	
+							
+            </div>
+        </div>
+    </div>
         <!--banner area end-->
 
         <!--product area start-->
         <!--product area end-->
 
     </div>
+    <!--<div class="col-lg-3 col-md-6 bg-primary">
+                                <h2 class="h1 pt-3" style="text-align:left">Latest Blog</h2>
+                                <article class="single_related article_one">
+                                <figure>
+                                <div class="related_thumb">
+                                <img src="assets/img/blog/blog7.jpg" alt="">
+                                <div class="overlay">
+                                  <a href=""></a>
+                                </div>
+                                </div>
+                                <figcaption class="related_content pt-3">
+                                <h4><a href="#">Post with Gallery</a></h4>
+                                <div class="blog_meta">
+                                <span class="author">By : <a href="#">admin</a> / </span>
+                                <span class="meta_date"> April 11, 2019 </span>
+                                </div>
+                                </figcaption>
+                                <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
+                                <button class="btn btn-info">Read more...</button>
+                                </figure>
+                                 </article>
+                                    </div>                                      
+                    <div class="col-lg-3 col-md-6 mt-5">
+                      <article class="single_related article_one">
+                        <figure>
+                         <div class="related_thumb mt-4">
+                           <img src="assets/img/blog/blog7.jpg" alt="">
+                            <div class="overlay">
+                               <a href=""></a>
+                            </div>
+                           </div>
+                          <figcaption class="related_content pt-3">
+                            <h4><a href="#">Post with Gallery</a></h4>
+                            <div class="blog_meta">
+                             <span class="author">By : <a href="#">admin</a> / </span>
+                               <span class="meta_date"> April 11, 2019 </span>
+                             </div>
+                           </figcaption>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
+                            <button class="btn btn-info">Read more...</button>
+                      </figure>
+                   </article>
+                </div>                              
+                                    
+                    <div class="col-lg-3 col-md-6 mt-5 bg-info">
+                      <article class="single_related article_one ">
+                        <figure>
+                         <div class="related_thumb mt-4">
+                           <img src="assets/img/blog/blog7.jpg" alt="">
+                            <div class="overlay">
+                               <a href=""></a>
+                            </div>
+                           </div>
+                          <figcaption class="related_content pt-3">
+                            <h4><a href="#">Post with Gallery</a></h4>
+                            <div class="blog_meta">
+                             <span class="author">By : <a href="#">admin</a> / </span>
+                               <span class="meta_date"> April 11, 2019 </span>
+                             </div>
+                           </figcaption>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
+                            <button class="btn btn-info">Read more...</button>
+                      </figure>
+                   </article>
+                </div> -- >                                
+                            
