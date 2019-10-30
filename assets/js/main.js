@@ -94,8 +94,8 @@
         autoplay: true,
 		loop: true,
         nav: true,
-        autoplay: false,
-        autoplayTimeout: 8000,
+    
+        autoplayTimeout: 5000,
         items: 5,
         dots:false,
         navText: ['<i class="ion-ios-arrow-back"></i>','<i class="ion-ios-arrow-forward"></i>'],
