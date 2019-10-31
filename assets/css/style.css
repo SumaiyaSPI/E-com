@@ -202,13 +202,12 @@
 }
 
 .single_related .short_note {
-    margin-top: 1em !important;
+
     margin-bottom: 1em !important;
 }
 
 .author_item {
-    padding-top: 46px;
-    margin-left: 139px;
+    margin-left:251px;
 }
 
 .author_item span {
@@ -1385,7 +1384,12 @@ textarea:-ms-input-placeholder {
 /*header top css here*/
 
 .header_top {
-    border-bottom: 1px solid #661c36;
+border-bottom: 1px solid #661c36;
+margin-left: -5rem;
+padding-left: 6rem;
+margin-right: -5rem;
+padding-right: 6rem;
+
 }
 
 @media only screen and (max-width: 767px) {
@@ -3087,13 +3091,21 @@ textarea:-ms-input-placeholder {
     left: 100%;
 }
 
-.categories_menu_toggle>ul>li:hover>a {
-    color: black;
+.categories_menu_toggle>ul>li>a:hover {
+
     /*background: linear-gradient(to left, #008f95 1%, #66ccff 100%);*/
     background-image: linear-gradient(to right, #C4DCEE 1%, #64CEC9 70%, #C4DCEE 90%);
-    border-left: 3px solid #000;
 }
-
+.categories_menu_toggle > ul > li:hover >a::before{display: block;} 
+.categories_menu_toggle > ul > li >a::before{
+    content: '';
+    position: absolute;
+    width: 3px;
+    height:100%;
+    background: #333;
+    left:0;
+ display: none;
+}
 .categories_menu_toggle>ul>li ul.categories_mega_menu {
     position: absolute;
     left: 120%;
@@ -4843,9 +4855,9 @@ margin-left:229px;
 .categories_product_inner {
     margin-left:-2em;
     margin-right:-2em;
-    /*! overflow: hidden; */
+    /*! overflow: hidden; 
     border-left: 1px solid #ebebeb;
-    border-top: 1px solid #ebebeb;
+    border-top: 1px solid #ebebeb;*/
 }
 
 .home_section_bg {
@@ -5022,7 +5034,7 @@ margin-bottom: 30px;}
 
 .single_product {
  
-   margin-left: 15px;
+   margin-left: 17px;
     background: #fff;
 }
 
@@ -5074,7 +5086,7 @@ margin-bottom: 30px;}
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
     .product_content_inner {
-        padding: 20px 16px 25px 16px;
+        padding: 20px 16px 10px 16px;
     }
 }
 
@@ -5176,7 +5188,7 @@ margin-bottom: 30px;}
 }
 
 .product_timing {
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .single_countdown {
@@ -5187,7 +5199,7 @@ padding:1px;
 }
 
 .single_countdown:last-child {
-    margin-right: 0;
+    margin-right: -6px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
@@ -5529,7 +5541,7 @@ padding: 8px 24px;
 }
 
 .product_carousel .owl-nav div {
-    opacity: 0;
+    opacity: 1;
     visibility: variabla;
     position: absolute;
     top: 46%;
@@ -5542,7 +5554,7 @@ padding: 8px 24px;
     height: 65px;
     line-height: 63px;
     border-radius: 50%;
-    background: #ffffff;
+    background: red;
     text-align: center;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
@@ -5579,7 +5591,7 @@ padding: 8px 24px;
 }
 
 .product_carousel .owl-nav div:hover {
-    color: #ffffff;
+    color: red;
     background: #008f95;
     border-color: #008f95;
 }
@@ -12977,7 +12989,7 @@ border-radius: 0px !important;
 .top-bar ul>li a {
     padding: 0 13px;
     border-right: 1px solid #e0e0e0;
-    color: #3D3D3D;
+    color: white;
     font-size: 13px;
     line-height: 15px;
     display: inline-block;
@@ -13071,11 +13083,10 @@ header-search {
 
 .banner-area-img {
     background: white;
-    box-shadow: inset 0 0 0 15px red;
 }
 
 .banner-area-img:hover {
-    box-shadow: inset 0 0 0 60px red;
+  
     opacity: .7;
 }
 
@@ -13093,7 +13104,7 @@ header-search {
 
 .contact_icone img {
     width: 30%;
-    border-radius: 5px;
+   margin-bottom: 6px;
 }
 
 .top-bar ul>li.dropdown .dropdown-menu li a {
@@ -13353,4 +13364,48 @@ font-weight: bolder;
 position: absolute;
 padding: 0px 10px;
 z-index: 11111
+}
+.top_bar_menu_item .dropbtn{
+    color:#008f95;
+}
+
+.footer-search-box{
+    border: unset;
+}
+
+.footer-search-box button{
+ 
+ font-size: 19px;
+text-transform: uppercase;
+position: absolute;
+top: -2px;
+right: 3px;
+background: none;
+color:
+#fff;
+font-weight: 500;
+
+}
+
+.footer-search-box input{
+    background: #5D666F;
+    height: 45px;
+    border-radius: 5px;
+    color:white!important;
+}
+.EmbedBrokenMedia a{position: relative;}
+.EmbedBrokenMedia a::after{
+    position: absolute;
+    content: "\f16d";
+    font-size: 30px; 
+    font-family: FontAwesome; 
+    top: 0%;
+    right: 40%; 
+    opacity: 1;
+}
+.time-to{
+    color:#008f95;
+    font-family: 'Satisfy', cursive;
+    font-size: 22px;font-weight: 500;
+    margin-bottom: 40px;
 }

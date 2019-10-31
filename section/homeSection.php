@@ -54,7 +54,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -104,7 +104,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -154,7 +154,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -204,7 +204,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -254,7 +254,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -309,7 +309,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -359,7 +359,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -409,7 +409,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -459,7 +459,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -509,7 +509,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -565,7 +565,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -615,7 +615,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -665,7 +665,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -715,7 +715,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -765,7 +765,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -822,7 +822,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -872,7 +872,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -922,7 +922,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -972,7 +972,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -1022,7 +1022,7 @@
                                             <ul>
                                                 <li class="wishlist"><a href="wishlist.html" title="Add to Wishlist"><i class="ion-android-favorite-outline"></i></a></li>
                                                 <li class="compare"><a href="#" title="Add to Compare"><i class="ion-ios-settings-strong"></i></a></li>
-                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
+                                                <li class="quick_button"><a href="#" data-toggle="modal" data-target="#modal_box"  title="10 colors | quick view" class="inner-search-back" class="inner-search-back"><i class="ion-ios-search-strong"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -1115,18 +1115,18 @@
                 <div class="row">
              <div class="col-lg-4 col-md-4">
 					<h2 class="h1 pt-3" style="text-align:left">Testimonials</h2>
-                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/8-bgclient.png'); background-size:cover; background-size: cover;height: 85%;width: 97%;background-position: left;">
+                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/test1.jpg'); background-size: cover;width: 97%;background-position: left;">
                         
 						<div class="owl-carousel owl-theme" >
                                     <div class="item gif  text-center" >
                                         <div class="gif_text">
-                                          <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
+                                          <p class=" text-justify pt-4 pb-5 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
+                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae <i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
                 					<img src="assets/img/profile.jpg" alt="" />
                 				  </div>
-                                  <div class="author_item">
+                                  <div class="author_item float-left">
                 					<span>Jonh Web
                 				  <p style="font-size:11px">Web Designer</p>
                 				  </span>
@@ -1146,6 +1146,22 @@
                 				  <p style="font-size:11px">Web Designer</p>
                 				  </span>
                 				  </div>
+                              </div>
+                            </div>
+                               
+<div class="item gif  text-center" >
+                                        <div class="gif_text">
+                                          <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
+                                        </p>
+                                  <div class="profile_img flote-left">
+                                    <img src="assets/img/profile.jpg" alt="" />
+                                  </div>
+                                  <div class="author_item">
+                                    <span>Jonh Web
+                                  <p style="font-size:11px">Web Designer</p>
+                                  </span>
+                                  </div>
                               </div>
                             </div>
                                              
@@ -1174,7 +1190,7 @@
                             </div>
                         
                            </div>
-                          <figcaption class="related_content pt-3">
+                          <figcaption class="related_content ">
                             <h4><a href="#">Post with Gallery</a></h4>
                             <div class="blog_meta">
                              <span class="author">By : <a href="#">admin</a> / </span>
@@ -1201,7 +1217,7 @@
                             </div>
                         
                            </div>
-                          <figcaption class="related_content pt-3">
+                          <figcaption class="related_content ">
                             <h4><a href="#">Post with Gallery</a></h4>
                             <div class="blog_meta">
                              <span class="author">By : <a href="#">admin</a> / </span>
@@ -1228,7 +1244,7 @@
                             </div>
                         
                            </div>
-                          <figcaption class="related_content pt-3">
+                          <figcaption class="related_content ">
                             <h4><a href="#">Post with Gallery</a></h4>
                             <div class="blog_meta">
                              <span class="author">By : <a href="#">admin</a> / </span>

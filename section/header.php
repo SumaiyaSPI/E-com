@@ -1,10 +1,10 @@
     <header>
 
         <div class="main_header header_padding">
-
+ <div class="container">
                 <!--header top start-->
                 <div class="header_top">
-                  <div class="container">
+                 
                         <div class="row ">
                         <div class="col-lg-6 col-md-6">
                             <div class="antomi_message ">
@@ -27,7 +27,7 @@
                         </div>
                     </div>
                   </div>
-                </div>
+               
 
 
                 <!--header top start-->
@@ -595,7 +595,7 @@ Turbo System <i class="fa fa-angle-right"></i></a>
                 </div>
 
        
-
+ </div>
         </div>
 
     </header>
