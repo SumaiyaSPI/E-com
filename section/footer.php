@@ -73,7 +73,7 @@
                         <div class="footer_contact">
                             <form action="#">
 
-                                <div class="search_box show">
+                                <div class="search_box show footer-search-box">
                                     <input placeholder="Enter Your Email....." type="text">
                                     <button type="submit"><i class="fa fa-search"></i></button>
                                 </div>
@@ -102,12 +102,12 @@
                             <div class="footer_contact_inner">
                                 <div class="contact_icone text-right mr-4">
                                     <div class="EmbedBrokenMedia">
-                                        <img src="assets/img/about/testimonial1.jpg" alt="">
-                                        <img src="assets/img/about/testimonial2.jpg" alt="">
-                                        <img src="assets/img/about/testimonial3.jpg" alt="">
-                                        <img src="assets/img/about/testimonial1.jpg" alt="">
-                                        <img src="assets/img/about/testimonial2.jpg" alt="">
-                                        <img src="assets/img/about/testimonial3.jpg" alt="">
+                                       <a href=""> <img src="assets/img/about/testimonial1.jpg" alt=""></a>
+                                       <a href=""><img src="assets/img/about/testimonial2.jpg" alt=""></a> 
+                                        <a href=""><img src="assets/img/about/testimonial3.jpg" alt=""></a>
+                                        <a href=""><img src="assets/img/about/testimonial1.jpg" alt=""></a>
+                                        <a href=""><img src="assets/img/about/testimonial2.jpg" alt=""></a>
+                                        <a href=""><img src="assets/img/about/testimonial3.jpg" alt=""></a>
                                     </div>
                                 </div>
                             </div>

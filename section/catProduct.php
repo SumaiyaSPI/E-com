@@ -2,6 +2,8 @@
 
         <div class="container">
             <div class="categories_product_inner">
+                <h2 class="text-center">FROM GALLERY</h2>
+                  <p class="text-center time-to">Time to shop special</p>
                 <div class="single_categories_product" style="background: url('assets/img/bg/person.jpg'); background-size:cover;">
                     <div class="categories_product_content text-center">
                         <h4 class="text-center">Men</h4>
