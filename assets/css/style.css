@@ -126,7 +126,7 @@
 
 .hot {
     font-weight: 700;
-    color: #008F95;
+    color: white;
     font-size: 1.1em;
 }
 
@@ -207,7 +207,7 @@
 }
 
 .author_item {
-    margin-left:251px;
+    margin-left:221px;
 }
 
 .author_item span {
@@ -258,11 +258,13 @@ font-size: 13px;
 }
 .profile_img img {
     position: absolute;
-    width: 84px !important;
-    height: 84px;
+    width:90px !important;
+    height: 90px;
     border-radius: 50%;
     margin-left: 4.2em;
-    bottom: 0%;
+    bottom:1%;
+    overflow: hidden;
+  transition: .9s;
 }
 
 .single_related {
@@ -1384,12 +1386,13 @@ textarea:-ms-input-placeholder {
 /*header top css here*/
 
 .header_top {
-border-bottom: 1px solid #661c36;
+background: #008f95;
 margin-left: -5rem;
 padding-left: 6rem;
 margin-right: -5rem;
 padding-right: 6rem;
-
+line-height: 49px;
+color:white;
 }
 
 @media only screen and (max-width: 767px) {
@@ -4116,7 +4119,8 @@ padding-right: 6rem;
 }
 
 .banner_area .owl-dots{
-margin-left:229px;
+margin-left:136px;
+padding-bottom: 10px;
 } 
 
 .slider_area .owl-dots {
@@ -5034,7 +5038,7 @@ margin-bottom: 30px;}
 
 .single_product {
  
-   margin-left: 17px;
+   margin-left: 18px;
     background: #fff;
 }
 
@@ -5187,9 +5191,9 @@ margin-bottom: 30px;}
     color: #c40316;
 }
 
-.product_timing {
+/*.product_timing {
     margin-top: 5px;
-}
+}*/
 
 .single_countdown {
     display: inline-block;
@@ -5199,7 +5203,7 @@ padding:1px;
 }
 
 .single_countdown:last-child {
-    margin-right: -6px;
+    margin-right: -3px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
@@ -12883,7 +12887,7 @@ border-radius: 0px !important;
 
 .banner_area .row .col-md-6 {
     padding-right: 0px;
-    padding-left: 0px;
+    padding-left: 14px;
 }
 
 .abc .row .bcd {
@@ -13409,3 +13413,7 @@ font-weight: 500;
     font-size: 22px;font-weight: 500;
     margin-bottom: 40px;
 }
+.profile_img:hover img{
+    transform: scale(1.1);
+    bottom: 1%;
+} 

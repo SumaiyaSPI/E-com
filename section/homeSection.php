@@ -1,4 +1,4 @@
-<div class="clearfix">...</div>
+<div class="clearfix"></div>
 
 <div class="home_section_bg">
         <div class="product_area deals_product">
@@ -1069,11 +1069,11 @@
         <!--banner area start-->
         <div class="banner_area mb-55">
             <div class="container">
-                <div class="row" style="height:570px:width:521px">
-                    <div class="col-lg-6 col-md-6" style="margin-right:12px">
+                <div class="row" >
+                    <div class="col-lg-6 col-md-6" style="margin-right:12px;">
                         <figure class="single_banner">
                             <div class="banner_thumb">
-                                     <img width="100%" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid17.jpg" alt="">
+                                     <img width="100%" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid17.jpg" alt="" style="height: 568px;">
                             </div>
                         </figure>
                     </div>
