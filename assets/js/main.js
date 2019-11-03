@@ -1,12 +1,12 @@
 // slider
 
 
+
 // slider
 
 
 (function($) {
     "use strict";
-
 
     new WOW().init();
 
