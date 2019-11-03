@@ -1067,21 +1067,21 @@
         <!--product area end-->
 
         <!--banner area start-->
-        <div class="banner_area mb-55">
+        <div class="banner_area mb-55 ">
             <div class="container">
                 <div class="row" >
-                    <div class="col-lg-6 col-md-6" style="margin-right:12px;">
+                    <div class="col-lg-6 col-md-6" >
                         <figure class="single_banner">
                             <div class="banner_thumb">
-                                     <img width="100%" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid17.jpg" alt="" style="height: 568px;">
+                                     <img width="100%" height="100%" class="banner-area-img-a" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid17.jpg" alt="">
                             </div>
                         </figure>
                     </div>
-                    <div class="col" >
+                    <div class="col"style="margin-left:12px;" >
                         <div class="row">
                             <figure class="single_banner" style="height:100%;margin-top:-2px" >
                                 <div class="banner_thumb">
-                                        <img width="400px" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid18.jpg" alt=""></a>
+                                        <img width="400px" height="100%" class="banner-area-img-b" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid18.jpg" alt=""></a>
                                 </div>
                             </figure>      
                         </div>
@@ -1090,7 +1090,7 @@
                             <figure class="single_banner" style="margin-top:8px">
                                 <div class="banner_thumb">
                                     <a href="shop.html">
-                                        <img width="400px" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid19.jpg" alt=""></a>
+                                        <img width="400px" height="100%" class="banner-area-img-b" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid19.jpg" alt=""></a>
                                 </div>
                             </figure>      
                         </div>
@@ -1099,7 +1099,7 @@
                     <div class="col" style="margin-left:-2.8px;">
                     <figure class="single_banner">
                             <div class="banner_thumb">
-                                     <img style="height:566px" width="400px" width="100%" height="100%" class="banner-area-img" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid20.jpg" alt="">
+                                     <img  width="400px" width="100%" height="100%" class="banner-area-img-c" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid20.jpg" alt="">
                             </div>
                         </figure>
                     </div>
@@ -1278,75 +1278,7 @@
             </div>
         </div>
     </div>
-        <!--banner area end-->
-
-        <!--product area start-->
-        <!--product area end-->
+       
 
     </div>
-    <!--<div class="col-lg-3 col-md-6 bg-primary">
-                                <h2 class="h1 pt-3" style="text-align:left">Latest Blog</h2>
-                                <article class="single_related article_one">
-                                <figure>
-                                <div class="related_thumb">
-                                <img src="assets/img/blog/blog7.jpg" alt="">
-                                <div class="overlay">
-                                  <a href=""></a>
-                                </div>
-                                </div>
-                                <figcaption class="related_content pt-3">
-                                <h4><a href="#">Post with Gallery</a></h4>
-                                <div class="blog_meta">
-                                <span class="author">By : <a href="#">admin</a> / </span>
-                                <span class="meta_date"> April 11, 2019 </span>
-                                </div>
-                                </figcaption>
-                                <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
-                                <button class="btn btn-info">Read more...</button>
-                                </figure>
-                                 </article>
-                                    </div>                                      
-                    <div class="col-lg-3 col-md-6 mt-5">
-                      <article class="single_related article_one">
-                        <figure>
-                         <div class="related_thumb mt-4">
-                           <img src="assets/img/blog/blog7.jpg" alt="">
-                            <div class="overlay">
-                               <a href=""></a>
-                            </div>
-                           </div>
-                          <figcaption class="related_content pt-3">
-                            <h4><a href="#">Post with Gallery</a></h4>
-                            <div class="blog_meta">
-                             <span class="author">By : <a href="#">admin</a> / </span>
-                               <span class="meta_date"> April 11, 2019 </span>
-                             </div>
-                           </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
-                            <button class="btn btn-info">Read more...</button>
-                      </figure>
-                   </article>
-                </div>                              
-                                    
-                    <div class="col-lg-3 col-md-6 mt-5 bg-info">
-                      <article class="single_related article_one ">
-                        <figure>
-                         <div class="related_thumb mt-4">
-                           <img src="assets/img/blog/blog7.jpg" alt="">
-                            <div class="overlay">
-                               <a href=""></a>
-                            </div>
-                           </div>
-                          <figcaption class="related_content pt-3">
-                            <h4><a href="#">Post with Gallery</a></h4>
-                            <div class="blog_meta">
-                             <span class="author">By : <a href="#">admin</a> / </span>
-                               <span class="meta_date"> April 11, 2019 </span>
-                             </div>
-                           </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
-                            <button class="btn btn-info">Read more...</button>
-                      </figure>
-                   </article>
-                </div> -- >                                
-                            
+   

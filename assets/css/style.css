@@ -416,6 +416,7 @@ body {
     visibility: visible;
     font-family: "Rubik", sans-serif;
     color: #222222;
+    overflow-x: hidden;
 }
 
 h1,
@@ -5553,17 +5554,18 @@ padding: 8px 24px;
     -ms-transform: translatey(-50%);
     transform: translatey(-50%);
     font-size: 24px;
-    border: 1px solid #333;
+    border: 1px solid #ebebeb;
     width: 65px;
     height: 65px;
     line-height: 63px;
     border-radius: 50%;
-    background: red;
+    background: #008f95;
     text-align: center;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s;
     left: -30px;
+    color: white;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
@@ -6611,7 +6613,7 @@ color:grey;
 
 .footer_top {
     padding: 55px 50px 56px;
-    border-bottom: 1px solid #ebebeb;
+  
     background: #130e0e;
     color: white;
 }
@@ -13013,32 +13015,7 @@ border-radius: 0px !important;
 
 /*# sourceMappingURL=style.css.map */
 
-@media only screen and (max-width: 360px) {
-    .col-sm-d-none {
-        display: none;
-    }
-    .header-search {
-        width: 100%;
-    }
-    .single_related {
-        margin-left: 25px;
-    }
-    .related_thumb {
-        width: 310px;
-    }
-    .pro_hide {
-        display: none;
-    }
-    .search-top input {
-        position: absolute;
-        width: 90%!important;
-    }
-    .icon {
-        position: absolute;
-        left: 85%!important;
-        top: 47%!important;
-    }
-}
+
 
 .h1 {
     color: #3D3D3D;
@@ -13178,8 +13155,9 @@ header-search {
 }
 
 .single_categories_product {
-    width: 20%;
+  max-width: 20%;
     position: relative;
+     height: 275px;
 }
 
 .single_categories_product::before {
@@ -13323,9 +13301,6 @@ header-search {
 }
 
 
-.single_categories_product{
-    height: 275px;
-}
 .product_tab_btn h3{
     font-size: 24px;
     font-weight: 500;
@@ -13417,3 +13392,105 @@ font-weight: 500;
     transform: scale(1.1);
     bottom: 1%;
 } 
+.new-mar-pad{
+    margin-left:4em;
+    margin-right:4em
+}
+.banner_thumb .banner-area-img-a{height: 568px;}
+.banner_thumb .banner-area-img-c{height: 566px;}
+
+@media only screen and (max-width: 360px) {
+    .new-mar-pad{
+    margin-left:1em;
+    margin-right:1em
+    }
+    .col-sm-d-none {
+        display: none;
+    }
+    .header-search {
+        width: 100%;
+    }
+    .single_related {
+        margin-left: 25px;
+    }
+    .related_thumb {
+        width: 310px;
+    }
+    .pro_hide {
+        display: none;
+    }
+    .search-top input {
+        position: absolute;
+        width: 90%!important;
+    }
+    .icon {
+        position: absolute;
+        left: 85%!important;
+        top: 47%!important;
+    }
+    .logo a img{
+        width: 80%;
+        margin-top: -20px;
+    }
+    .sidebar_banner_area {
+    margin-top: 0px;
+    }
+    .single_banner {
+    margin-bottom: 15px !important;
+    }
+    .slider_section {
+    margin-bottom: 15px;
+    }
+    .col-shipping-box{margin-bottom: 15px; }
+    .mb-60 { margin-bottom: 16px;}
+    .categories_product_inner h2{ font-size: 27px;}
+
+    .single_categories_product {max-width: 100%; }
+   .home_section_bg {padding: 0px 0 57px;}
+    .product_tab_btn ul li:first-child{margin-right:50px;}
+    .product_tab_btn ul li {margin-right: 16px;}
+    .product_tab_btn ul li a{padding: 8px 8px;}
+    .product_area .owl-carousel .owl-stage-outer{padding-bottom:0px;}
+    .banner_thumb .banner-area-img-a{height: 300px;}
+    .banner_thumb .banner-area-img-c { height: 322px;}
+    .banner_area .row .col-md-6 {padding-right:14px;}
+    .banner_area {margin-bottom: 0px;}
+    .single_banner{width: 100%!important;}
+    .author_item span{font-size: 15px;}
+    .author_item {margin-left: 120px;}
+    .profile_img img {
+    width: 80px !important;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 1.2em;
+    bottom: 0%;
+    }
+    .banner_area .owl-dots {  margin-left: 0px;}
+    .single_related {margin-left:0px;}
+    .carousel-control-prev{width: 87%;}
+    .widgets_container.widget_menu {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    }
+    .footer_social ul li{margin-right: 30px; margin-bottom: 50px;}
+    .footer_social ul li a{
+    width: 40px;
+    height: 37px;
+    margin-right: 0px;
+    margin-left: 20px;
+   }
+    .footer_top { padding: 26px 0 5px;}
+    .widgets_container {
+    margin-bottom: 55px;
+    margin-left: 20px;
+    }
+    .pull-left ul li{
+    width: 71px;
+    height: 20px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+    }
+    .footer_social { margin-top:0px;}
+    .footer-note.mt-5{margin-top: 0rem !important;}
+
+}

@@ -9,17 +9,17 @@
     <!--Offcanvas menu area end-->
     <!--header area start-->
     
-    <div style="margin-left:4em;margin-right:4em">
+    <div class="new-mar-pad">
     <?php include("section/header.php");?>
     </div>
     
 	<!--header area end-->
-    <div style="margin-left:4em;margin-right:4em">
+    <div class="new-mar-pad">
     <!--slider area start-->
     <?php include("section/slider.php");?>
 </div>
     <!--slider area end-->
-    <div style="margin-left:4em;margin-right:4em">
+    <div class="new-mar-pad">
     <!--shipping area start-->
     <?php include("section/shippingArea.php");?>
     <!--shipping area end-->
@@ -29,7 +29,7 @@
     <?php include("section/catProduct.php");?>
 
 <br>
-    <div style="margin-left:4em;margin-right:4em">
+    <div class="new-mar-pad">
     <!--home section bg area start-->
     <?php include("section/homeSection.php");?>
     <!--home section bg area end-->

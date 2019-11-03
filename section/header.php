@@ -37,7 +37,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-2 col-md-6 col-xs-12">
                             <div class="logo">
-                                <a href="/"><img src="assets/img/logo/logo.png" alt="" style="max-width:120%;"></a>
+                                <a href="#"><img src="assets/img/logo/logo.png" alt="" style="max-width:120%;"></a>
                             </div>
                         </div>
                         <div class="col-lg-7 col-md-12 col-xs-12 ">
