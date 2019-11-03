@@ -37,27 +37,45 @@
     			
     			<!-- Add Arrows -->
 
-
-				<ul class="bg-slideshow">
- 	<li>
-		  <span class="image">Image 01</span>
-		  <div>
-			   <h3><span class="red">re</span>·lax</h3>
-  		</div>
- 	</li>
-	<li>
-    <span class="image">Image 02</span>
-		  <div>
-			   <h3>and <span class="red">go</span>..</h3>
-  		</div>
-  </li>
-	<li>
-    <span class="image">Image 03</span>
-		  <div>
-			   <h3>Fuck <span class="red">you</span>rself</h3>
-  		</div>
-  </li>
-</ul>
+				<div id="container">
+  <ul id="slides">
+    <li class="slide">
+      <div class="slide-partial slide-left"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/forest-left.jpg"/></div>
+      <div class="slide-partial slide-right"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/forest-right.jpg"/></div>
+      <h1 class="title"><span class="title-text">Forest</span></h1>
+    </li>
+    <li class="slide">
+      <div class="slide-partial slide-left"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/mountain-left.jpg"/></div>
+      <div class="slide-partial slide-right"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/mountain-right.jpg"/></div>
+      <h1 class="title"><span class="title-text">Mountain</span></h1>
+    </li>
+    <li class="slide">
+      <div class="slide-partial slide-left"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/ocean-left.jpg"/></div>
+      <div class="slide-partial slide-right"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/ocean-right.jpg"/></div>
+      <h1 class="title"><span class="title-text">Ocean</span></h1>
+    </li>
+    <li class="slide">
+      <div class="slide-partial slide-left"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/canyon-left.jpg"/></div>
+      <div class="slide-partial slide-right"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/canyon-right.jpg"/></div>
+      <h1 class="title"><span class="title-text">Canyon</span></h1>
+    </li>
+    <li class="slide">
+      <div class="slide-partial slide-left"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/lake-left.jpg"/></div>
+      <div class="slide-partial slide-right"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/lake-right.jpg"/></div>
+      <h1 class="title"><span class="title-text">Lake</span></h1>
+    </li>
+  </ul>
+  <ul id="slide-select">
+    <li class="btn prev"><</li>
+    <li class="selector"></li>
+    <li class="selector"></li>
+    <li class="selector"></li>
+    <li class="selector"></li>
+    <li class="selector"></li>
+    <li class="btn next">></li>
+  </ul>
+</div><a class="codepen-link" href="https://www.codepen.io/seanfree" target="_blank"></a>
+				
     			</div>
     		
 
