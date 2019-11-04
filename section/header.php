@@ -40,7 +40,7 @@
                                 <a href="#"><img src="assets/img/logo/logo.png" alt="" style="max-width:120%;"></a>
                             </div>
                         </div>
-                        <div class="col-lg-7 col-md-12 col-xs-12 ">
+                        <div class="col-lg-8 col-md-12 col-xs-12 text-center ">
                             <div class="main_menu menu_position text-center">
                                 <nav>
                                     <ul>
@@ -111,15 +111,15 @@
                                 </nav>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-xs-12">
+                        <div class="col-lg-2 col-xs-12">
                             <div class="header_configure_area">
-                                <div class="header_wishlist">
+                                <div class="header_wishlist text-right">
                                     <a href="wishlist.html"><i class="fa fa-bar-chart" aria-hidden="true"></i>
                                         <span class="wishlist_count">0</span>
                                     </a>
                                 </div>
                                 <div class="header_wishlist">
-                                    <a href="wishlist.html"><i class="fa fa-heart" aria-hidden="true"></i>
+                                    <a href="wishlist.html"><i class="fa fa-heart text-right" aria-hidden="true"></i>
 
                                         <span class="wishlist_count">0</span>
                                     </a>
@@ -193,7 +193,8 @@
 
                                                 <ul class="navbar-nav mr-auto">
                                                     <li class="dropdown col-md-4 col-sm-4 col-lg-4 hidden-xs ">
-                                                        <a href="ProductCategory.php" class="top-cat-option">Category</a>
+                                                        <a href="ProductCategory.php" class="top-cat-option ml-5" style="font-size: 15px; font-weight: 400; margin-top: -11px;"><i class="fa fa-bars" aria-hidden="true"></i>
+</a>
                                                         <ul id="top_bar_menu" x-placement="bottom-start" style="position: absolute; will-change: transform; top: 0px; left: 0px; transform: translate3d(15px, 50px, 0px); width: 200px;">
                                                             <li class="top_bar_menu_item">
                                                                 <a href="#" class="dropbtn">
@@ -244,9 +245,9 @@
                                         </div>
 
                                         <div class="col-md-8 col-sm-12 col-lg-8 col-xs-12 search-top">
-                                            <form action="" class="input-icons">
+                                            <form action="" class="input-icons ml-3">
 
-                                                <input class="input-field header-search top-search" type="text" name="search">
+                                                <input class="input-field header-search top-search" type="text" name="search" placeholder="Search">
                                                 <i class="btn fa fa-search icon" style=""></i>
                                             </form>
                                         </div>
@@ -256,16 +257,16 @@
                                 </div><!-- /.col -->
 
                                 <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none">
-                                    <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:55px;">
+                                    <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:51px;">
                                 </div>
 
                                 <div class="hidden-xs hidden-xs hidden-sm col-md-4 col-lg-4 col-sm-d-none">
                                     <ul class="right">
 
                                         <li>
-                                            <span href="#change-language" click="something()">de</span>|
-                                            <span href="#change-language">en</span>|
-                                            <span href="#change-language">fr</span>
+                                            <span href="#change-language" click="something()" style="color:#969696; margin-right: 3px;">de</span> |
+                                            <span href="#change-language" style="margin-right: 3px;">en</span> |
+                                            <span href="#change-language" style="color:#969696;">fr</span>
                                         </li>
 
                                         <li style="padding-left: 5px">
@@ -537,7 +538,7 @@ Turbo System <i class="fa fa-angle-right"></i></a>
 								  
 
                                     <div class="search_box show">
-                                        <input placeholder="Search product..." type="text">
+                                        <input placeholder="Search or enter web ID" type="text">
                                         <button type="submit"><i class="fa fa-search"></i></button>
                                     </div>
                                 </form>
@@ -547,11 +548,11 @@ Turbo System <i class="fa fa-angle-right"></i></a>
                         <div class="column3 col-lg-3 col-md-6 hide col-sm-12 col-sm-d-none">
                             <div class="row">
                                 <div class="col-md-6 col-sm-6 col-sm-d-none">
-                                    <div class="header_bigsale">
+                                    <div class="header_bigsale ">
                                         <p>Hi, Sign in </p>
                                         <div class="categories_menu categories_three">
                                             <div class="categories_market_second">
-                                                <p class="categori_toggle">My Market</p>
+                                                <p class="categori_toggle font-weight-bold ">My Market</p>
                                             </div>
                                             <div class="categories_market_toggle">
                                                 <ul>
@@ -585,7 +586,7 @@ Turbo System <i class="fa fa-angle-right"></i></a>
                                 </div>
 
                                 <div class="col-md-6">
-                                    <div class="cart_img_page pl-5">
+                                    <div class="cart_img_page pl-5 text-right">
                                         <a href=""><img src="assets/img/logo/cart.png" alt="" /></a>
                                     </div>
                                 </div>

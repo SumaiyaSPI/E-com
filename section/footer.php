@@ -70,12 +70,14 @@
                 <div class="col-lg-3">
                     <div class="widgets_container">
                         <h3>GETt $10 Off</h3>
+                        <p>Sign up for Sales & Exclusive offers!</p>
                         <div class="footer_contact">
                             <form action="#">
 
                                 <div class="search_box show footer-search-box">
                                     <input placeholder="Enter Your Email....." type="text">
-                                    <button type="submit"><i class="fa fa-search"></i></button>
+                                    <button type="submit"><i class="fa fa-caret-right" aria-hidden="true"></i>
+</button>
                                 </div>
                             </form>
 
