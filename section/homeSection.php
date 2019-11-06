@@ -1079,7 +1079,7 @@
                     </div>
                     <div class="col"style="margin-left:12px;" >
                         <div class="row">
-                            <figure class="single_banner" style="height:100%;margin-top:-2px" >
+                            <figure class="single_banner" style="height:100%;margin-top:-3px" >
                                 <div class="banner_thumb">
                                         <img width="400px" height="100%" class="banner-area-img-b" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid18.jpg" alt=""></a>
                                 </div>
