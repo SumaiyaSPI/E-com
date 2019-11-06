@@ -55,7 +55,6 @@ margin-top: -64px;
     color: white;
     overflow: hidden;
     font-weight: 600;
-
 }
 
 
@@ -207,6 +206,7 @@ margin-top: -64px;
 }
 
 #slide-select .selector {
+
     height: 11px;
     width: 11px;
     border: 2px solid white;
@@ -227,7 +227,6 @@ margin-top: -64px;
     z-index: 10;
     border-radius: 50%;
     box-sizing: border-box;
- 
     background-position: center center;
     background-size: cover;
     opacity: 0.5;
@@ -1734,6 +1733,8 @@ margin-right: 30px;
 line-height: 36px;
 
 text-transform: capitalize;
+
+  
 
 margin-right: 20px;
 
@@ -5462,6 +5463,7 @@ height: 36px;
 .single_countdown {
     display: inline-block;
     margin-right: 6px;
+
     margin-top: 5px;
     color: #008f95;
     padding: 1px;
@@ -13729,6 +13731,7 @@ border-radius: unset;
 .banner_thumb .banner-area-img-c {
     height: 566px;
 }
+
 .sidebar_banner_area .single_banner{margin-right: -21px;}
 
 .single_banner{margin-right: 0px;}
@@ -13907,4 +13910,5 @@ max-width: 72.5%
      }
      .single_product {
          margin-left: 19px;}
+
 }
