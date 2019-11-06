@@ -10,8 +10,12 @@
 .carousel-control-next,
 .carousel-control-prev {
     bottom: 95% !important;
-    width: 5% !important;
-    margin-right: 0px !important;
+
+width: 94%;
+
+margin-right: 5px !important;
+
+margin-top: -64px;
 }
 
 
@@ -21,10 +25,10 @@
 /* slider */
 
 #container {
-    position: absolute;
     width: 100%;
     height: 100%;
     overflow: hidden;
+    position: absolute;
 }
 
 #slides {
@@ -42,7 +46,7 @@
 
 #slides .slide .title {
     position: absolute;
-    top: calc(20% - 0.5em);
+    top: calc(23% - 0.5em);
     left: 20px;
     z-index: 2;
     padding-top: 5px;
@@ -60,25 +64,40 @@
     left: 20px;
     z-index: 2;
     padding-top: 5px;
-    font-family: "Reem Kufi", sans-serif;
-    font-size:40px;
+    font-family: "poppins", sans-serif;
+    font-size:20px;
     color: white;
     overflow: hidden;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 #slides .slide .title3 {
     position: absolute;
+    top: calc(35% - 0.5em);
+    left: 20px;
+    z-index: 2;
+  text-transform: capitalize;
+    font-family: "Rubik", sans-serif;
+    font-size:18px;
+    color: white;
+    overflow: hidden;
+    font-weight: 400;
+}
+#slides .slide .title4 {
+    position: absolute;
     top: calc(40% - 0.5em);
     left: 20px;
     z-index: 2;
-    padding-top: 5px;
-    font-family: "Reem Kufi", sans-serif;
-    font-size:40px;
+    padding: 7px 30px;
+    font-family: "Rubik", sans-serif;
+    font-size:13px;
     color: white;
+    top:45%;
     overflow: hidden;
     font-weight: 600;
+   border: 1px solid white;
 }
+
 #slides .slide .title .title-text {
     display: block;
     -webkit-transform: translateY(1.2em);
@@ -187,8 +206,9 @@
 }
 
 #slide-select .selector {
-    height: 14px;
-    width: 14px;
+
+    height: 11px;
+    width: 11px;
     border: 2px solid white;
     background-color: transparent;
     transition: background-color 0.5s ease-in-out;
@@ -207,7 +227,6 @@
     z-index: 10;
     border-radius: 50%;
     box-sizing: border-box;
-    background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/logo.jpg");
     background-position: center center;
     background-size: cover;
     opacity: 0.5;
@@ -442,8 +461,8 @@
 }
 
 .related_thumb {
-    height: 200px;
-    width: 97%;
+    height: 204px;
+    width:100%;
     overflow: hidden;
     position: relative;
 }
@@ -504,7 +523,7 @@ margin-bottom: 10px;
 }
 
 .single_related {
-    margin-right: 10px;
+    margin-right: 4px;
 }
 
 .product_accordian {
@@ -1277,6 +1296,8 @@ textarea:-ms-input-placeholder {
 
 .Offcanvas_menu_wrapper .search_container {
     display: block;
+    margin-left: -101px;
+margin-right: 30px;
 }
 
 .Offcanvas_menu_wrapper .header_configure_area {
@@ -1712,6 +1733,8 @@ textarea:-ms-input-placeholder {
 line-height: 36px;
 
 text-transform: capitalize;
+
+  
 
 margin-right: 20px;
 
@@ -2786,7 +2809,7 @@ position: relative;
 @media only screen and (max-width: 767px) {
     .hover_category .select_option {
         height: 34px;
-        line-height: 35px;
+        line-height: 18px;
         font-size: 13px;
         padding-left: 41px;
         padding-right: 50px;
@@ -2821,6 +2844,8 @@ position: relative;
     .search_container {
         margin-bottom: 22px;
         display: none;
+        margin-top: 70px;
+        width: 110%;
     }
 }
 
@@ -2865,10 +2890,10 @@ position: relative;
         -ms-flex-direction: column-reverse;
         flex-direction: column-reverse;
         border: 0;
-        width: 100%;
+        width: 90%;
         -webkit-box-align: center;
         -ms-flex-align: center;
-        align-items: center;
+        align-items: left;
     }
 }
 
@@ -2994,11 +3019,12 @@ position: relative;
 
 @media only screen and (max-width: 767px) {
     .search_box button {
-        min-width: 78px;
         padding: 0 14px;
-        top: -1px;
-        bottom: -1px;
-        right: -1px;
+top: -1px;
+bottom: -1px;
+
+font-size: 12px;
+height: 36px;
     }
 }
 
@@ -4975,7 +5001,7 @@ position: relative;
 }
 
 .sidebar_banner_area .banner_thumb:hover {
-    background: black;
+  
     box-shadow: inset 0 0 0 12px white;
 }
 
@@ -5199,7 +5225,7 @@ position: relative;
 .categories_product_content {
     width: 100%;
     padding: 30px;
-    z-index: 9999;
+ 
 }
 
 .categories_product_content h4 {
@@ -5437,6 +5463,8 @@ position: relative;
 .single_countdown {
     display: inline-block;
     margin-right: 6px;
+
+    margin-top: 5px;
     color: #008f95;
     padding: 1px;
 }
@@ -5515,7 +5543,7 @@ position: relative;
     -o-transition: all 0.3s ease;
     transition: all .5s ease;
     position: absolute;
-    left: 185px;
+    left: 180px;
     right: 200px;
     bottom: 50px;
     z-index: 9;
@@ -5760,7 +5788,7 @@ position: relative;
 
 @media only screen and (max-width: 767px) {
     .product_carousel .product_thumb a img {
-        width: 100%;
+        width: 80%;
     }
 }
 
@@ -13703,7 +13731,10 @@ border-radius: unset;
 .banner_thumb .banner-area-img-c {
     height: 566px;
 }
-.single_banner{margin-right: -21px;}
+
+.sidebar_banner_area .single_banner{margin-right: -21px;}
+
+.single_banner{margin-right: 0px;}
 .slider-rpt-2 .col-lg-9{
     flex: 0 0 75%;
 max-width: 72.5%
@@ -13809,6 +13840,11 @@ max-width: 72.5%
     .single_banner {
         width: 100%!important;
     }
+    #container {
+    width: 301px;
+    height: 250px;
+    overflow: hidden;
+    }
     .author_item span {
         font-size: 15px;
     }
@@ -13864,4 +13900,15 @@ max-width: 72.5%
     .footer-note.mt-5 {
         margin-top: 0rem !important;
     }
+    #slides .slide .title1{font-size: 15px!important;}
+    #slides .slide .title{font-size: 23px;}
+    #slides .slide .title3{font-size: 15px; top: calc(35% - 0.5em);}
+     #slides .slide .title4{
+        font-size: 15px; top: calc(50% - 0.5em);
+        padding: 5px 20px;
+        font-size:11px;
+     }
+     .single_product {
+         margin-left: 19px;}
+
 }
