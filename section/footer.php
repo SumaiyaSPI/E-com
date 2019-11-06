@@ -70,12 +70,14 @@
                 <div class="col-lg-3">
                     <div class="widgets_container">
                         <h3>GETt $10 Off</h3>
+                        <p>Sign up for Sales & Exclusive offers!</p>
                         <div class="footer_contact">
                             <form action="#">
 
                                 <div class="search_box show footer-search-box">
                                     <input placeholder="Enter Your Email....." type="text">
-                                    <button type="submit"><i class="fa fa-search"></i></button>
+                                    <button type="submit"><i class="fa fa-caret-right" aria-hidden="true"></i>
+</button>
                                 </div>
                             </form>
 
@@ -118,7 +120,7 @@
             <div class="footer-note col-lg-12 text-center mt-5" style="color:grey">
             <a href="">Privacy Notice</a> | <a href="">CA Privacy Rights</a> | <a href="">Legal Notice</a> | <a href="">Customer Bill of Rights</a> | <a href="">CA Transparency in Supply Chains</a> | <a href="">Product Recalls</a> | <a href="">Pricing Policy</a> | <a href="">Site Map</a>
             <p class="copyright">Copyright &copy; 2019 <a href="#">d7b</a> All Right Reserved</p>
-            <p class="developed-by">Developed by <strong>Smart Software Ltd.</strong></p>
+            <p class="developed-by">Develop by <strong>Smart Software Ltd.</strong></p>
             </div>
 
         </div>

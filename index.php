@@ -2,14 +2,10 @@
 <html class="no-js" lang="en">
 <?php include('section/head.php');?>
 
-<body>
-
    <!--Offcanvas menu area start-->
     <?php include("section/offcanvas.php");?>
     <!--Offcanvas menu area end-->
-    <!--header area start-->
-    
-    <div class="new-mar-pad">
+    <!--header area start-->    <div class="new-mar-pad">
     <?php include("section/header.php");?>
     </div>
     
