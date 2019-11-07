@@ -53,7 +53,6 @@ height: 279px !important;
     color: white;
     overflow: hidden;
     font-weight: 600;
-
 }
 
 
@@ -205,6 +204,7 @@ height: 279px !important;
 }
 
 #slide-select .selector {
+
     height: 11px;
     width: 11px;
     border: 2px solid white;
@@ -225,7 +225,6 @@ height: 279px !important;
     z-index: 10;
     border-radius: 50%;
     box-sizing: border-box;
- 
     background-position: center center;
     background-size: cover;
     opacity: 0.5;
@@ -1736,6 +1735,8 @@ margin-right: 30px;
 line-height: 36px;
 
 text-transform: capitalize;
+
+  
 
 margin-right: 20px;
 
@@ -5470,6 +5471,7 @@ height: 36px;
 .single_countdown {
     display: inline-block;
     margin-right: 6px;
+
     margin-top: 5px;
     color: #008f95;
     padding: 1px;
@@ -13737,6 +13739,7 @@ font-family: 'Dancing Script', cursive;
 .banner_thumb .banner-area-img-c {
     height: 566px;
 }
+
 .sidebar_banner_area .single_banner{margin-right: -21px;}
 
 .single_banner{margin-right: 0px;}
@@ -13913,6 +13916,7 @@ max-width: 72.5%
         padding: 5px 20px;
         font-size:11px;
      }
+
      .shipping_area {margin-top: 270px}
      .single_product {margin-left: 19px;}
     .shop_wrapper { margin-left: -2rem;}
@@ -13925,4 +13929,5 @@ max-width: 72.5%
     .banner-area-img-b{height: 148px !important;}
     .carousel-control-prev { left: 79% !important;}
     .carousel-control-next, .carousel-control-prev{width: 6%;}
+
 }

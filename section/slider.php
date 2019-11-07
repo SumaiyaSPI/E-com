@@ -34,6 +34,7 @@
     <li class="slide">
       <div class="slide-partial slide-left"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/forest-left.jpg"/></div>
       <div class="slide-partial slide-right"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/forest-right.jpg"/></div>
+
        <h3 class="title1 title"><span class="title-text">New Arrivals</span></h3><br>
       <h1 class="title"><span class="title-text">summer collection 2019</span></h1>
       <p class="title3 title "><span class="title-text">discount <b style="color:red;">30%</b> off this week </span></p>
@@ -42,6 +43,7 @@
     <li class="slide">
       <div class="slide-partial slide-left"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/mountain-left.jpg"/></div>
       <div class="slide-partial slide-right"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/544318/mountain-right.jpg"/></div>
+
       <h3 class="title1 title"><span class="title-text">New Arrivals</span></h3><br>
       <h1 class="title"><span class="title-text">summer collection 2019</span></h1>
       <p class="title3 title"><span class="title-text">discount <b style="color:red;">30%</b> off this week </span></p>
