@@ -23,5 +23,4 @@
     <link rel="stylesheet" href="assets/css/zoomOnHover.css">
     <link rel="stylesheet" href="assets/css/hover.css">
     
-<link href="https://fonts.googleapis.com/css?family=Satisfy&display=swap" rel="stylesheet"> 
-</head>
+<link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">

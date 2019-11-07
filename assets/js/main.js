@@ -42,7 +42,8 @@ $(() => {
     $selectors.first().addClass("current");
 
 
-    interval = window.setInterval(cycle, 4000);
+    interval = window.setInterval(cycle, 2000);
+
 
 
     $selectors.on("click", e => {
@@ -51,7 +52,7 @@ $(() => {
             window.clearInterval(interval);
             cycle(target);
 
-            interval = window.setInteral(cycle, 4000);
+            interval = window.setInteral(cycle, 1000);
 
         }
     });
@@ -64,7 +65,7 @@ $(() => {
         } else if ($(e.target).hasClass("next")) {
             cycle();
         }
-        interval = window.setInterval(cycle, 4000);
+        interval = window.setInterval(cycle, 1000);
     });
 });
 // slider
@@ -997,3 +998,28 @@ $(() => {
 
 
 })(jQuery);
+
+
+
+$(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
+});
