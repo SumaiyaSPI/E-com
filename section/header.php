@@ -181,7 +181,7 @@
                 <!--header middel end-->
                 <!--header middel end-->
 
-                <div class="header_middle sticky-header second d-none sticky d-block">
+                <div class="header_middle sticky-header second d-none sticky d-none">
                     <nav class="top-bar animate-dropdown fixed-icon" style="padding-top: 5px;">
                         <div class="container magicmenu clearfix ">
                             <div class="row">
