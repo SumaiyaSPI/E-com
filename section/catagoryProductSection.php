@@ -2,7 +2,7 @@
         <div class="container">
             <div class="product_sidebar">
                 <div class="row">
-                    <div class="col-lg-3 col-md-12">
+                    <div class="col-lg-3 col-md-12 col-12">
                         <!--sidebar widget start-->
                         <aside class="sidebar_widget">
                             <div class="widget_list widget_categories">
@@ -11,7 +11,7 @@
                                     <li class="widget_sub_categories"><a href="javascript:void(0)">Offers</a>
                                         <ul class="widget_dropdown_categories">
                                             <li><a href="#">Offer Code FOURTH (38)</a></li>
-                                            <li><a href="#">Limited-Time Special (16)</a></li>
+                      
                                             <li><a href="#">Clearance/Closeout (102)</a></li>
                                             <li><a href="#">Last Act (42)</a></li>
                                         </ul>
@@ -122,8 +122,8 @@
                         </aside>
                         <!--sidebar widget end-->
                     </div>
-                    <div class="col-lg-9 col-md-12">
-                        <div class="product_cat_info" style="font-size:2em;margin-bottom:1em;">
+                    <div class="col-lg-9 col-md-12 col-12">
+                        <div class="item-200">
                             <span style="color:red">220</span> items in <span style="text-decoration: bold;color:red;font-size:.5em">Leggings &amp; Pants</span>
                             <div style="font-size:.5em;margin-top: .5em;">Sort by 
                                 <select class="ml-5" id="sortBy" title="sortBy">
@@ -139,7 +139,7 @@
                         
                        <div class="row no-gutters shop_wrapper">
                        <?php
-                                for($i=0;$i<22;$i++){
+                                for($i=0;$i<12;$i++){
                        ?>
                        <div class="col-lg-4 col-md-4 col-12 ">
                                 <?php include("section/productBlock.php");?>

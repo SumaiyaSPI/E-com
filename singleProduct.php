@@ -9,16 +9,15 @@
     <!--Offcanvas menu area end-->
     <!--header area start-->
     
-    <div style="margin-left:4em;margin-right:4em">
+    <div class="new-mar-pad">
         <?php include("section/header.php");?>
     </div>
   
     <!--header area end-->
   
     <!--Product section bg area start-->  
-    <div style="margin-left:4em;margin-right:4em">
-                        <?php include("section/productSingleViewSection.php");?>
-     </ div>
+    <div class="new-mar-pad">
+     <?php include("section/productSingleViewSection.php");?>
     </div>
     <!--Product section bg area end-->
    

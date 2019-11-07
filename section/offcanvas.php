@@ -10,7 +10,7 @@
                         <div class="canvas_close">
                             <a href="javascript:void(0)"><i class="ion-android-close"></i></a>
                         </div>
-                        <div class="antomi_message">
+                       <!-- <div class="antomi_message">
                              <ul>
                                 <li><a href="#">Store Locations</a></li>
                                 <li><a href="#">Track Your Order</a></li>
@@ -18,16 +18,16 @@
                                 <li>Quality Guarantee Of Products</li>
                             </ul>
                             <p>Get free shipping – Free 30 day money back guarantee</p>
-                        </div>
-                        <div class="header_top_settings text-right">
+                        </div>-->
+                        <!--<div class="header_top_settings text-right">
                             <ul>
                                 <li><a href="#">Store Locations</a></li>
                                 <li><a href="#">Track Your Order</a></li>
                                 <li>Hotline: <a href="tel:+(012)800456789">(012) 800 456 789 </a></li>
                                 <li>Quality Guarantee Of Products</li>
                             </ul>
-                        </div>
-                        <div class="header_configure_area">
+                        </div>-->
+                       <!-- <div class="header_configure_area">
                             <div class="header_wishlist">
                                 <a href="wishlist.html"><i class="ion-android-favorite-outline"></i>
                                     <span class="wishlist_count">3</span>
@@ -40,7 +40,7 @@
                                     <span class="cart_count">2</span>
 
                                 </a>
-                                <!--mini cart-->
+                              
                                 <div class="mini_cart">
                                     <div class="mini_cart_inner">
                                         <div class="cart_item">
@@ -88,9 +88,9 @@
 
                                     </div>
                                 </div>
-                                <!--mini cart end-->
+                              
                             </div>
-                        </div>
+                        </div>-->
                         <div class="search_container">
                             <form action="#">
                                 <div class="hover_category">

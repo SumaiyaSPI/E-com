@@ -81,7 +81,7 @@
     <li class="selector"></li>
     
   </ul>
-</div><a class="codepen-link" href="https://www.codepen.io/seanfree" target="_blank"></a>
+</div><a class="codepen-link" href="" target="_blank" style="background-image: url('assets/img/ftIcon.png');"></a>
 				
     			</div>
     		
