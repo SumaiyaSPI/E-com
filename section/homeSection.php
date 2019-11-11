@@ -7,7 +7,8 @@
                     <div class="col-12 col-md-12 offset-md-3">
                         <div class="product_header">
                             <div class="product_tab_btn text-center">
-							<h3 class="mb-4">YOUR COLLECTION</h3>
+							<h3 class="mb-2">YOUR COLLECTION</h3>
+                             <p class="text-center time-to">Trending Fashion</p>
                                 <ul class="nav text-center" role="tablist">
                                     <li>
                                         <a class="active" data-toggle="tab" href="#Fashion" role="tab" aria-controls="Fashion" aria-selected="true">
@@ -1072,7 +1073,7 @@
                 <div class="row" >
                     <div class="col-lg-6 col-md-6" >
                         <figure class="single_banner">
-                            <div class="banner_thumb">
+                            <div class="banner_thumb para-two">
                                      <img width="100%" height="100%" class="banner-area-img-a" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid17.jpg" alt="">
                             </div>
                         </figure>
@@ -1098,7 +1099,7 @@
                     
                     <div class="col" style="margin-left:-2.8px;">
                     <figure class="single_banner">
-                            <div class="banner_thumb">
+                            <div class="banner_thumb para-two">
                                      <img  width="400px" width="100%" height="100%" class="banner-area-img-c" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid20.jpg" alt="">
                             </div>
                         </figure>
@@ -1110,12 +1111,12 @@
         <!--banner area end-->
 		
         <!--banner area start-->
-        <div class="banner_area banner_style2 mb-55">
+        <div class="banner_area banner_style2 mb-55 para-three">
             <div class="container">
                 <div class="row">
              <div class="col-lg-4 col-md-4">
 					<h2 class="h1 pt-3" style="text-align:left">Testimonials</h2>
-                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/test1.jpg'); background-size: cover;width: 97%;background-position: left;">
+                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/8-bg-client.jpg'); background-size: cover;width:100%;background-position: left;">
                         
 						<div class="owl-carousel owl-theme" >
                                     <div class="item gif  text-center" >
@@ -1124,7 +1125,7 @@
                                           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae <i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
-                					<img src="assets/img/profile.jpg" alt="" />
+                					<img src="assets/img/author1.png" alt="" />
                 				  </div>
                                   <div class="author_item float-left">
                 					<span>Jonh Web
@@ -1133,13 +1134,14 @@
                 				  </div>
                               </div>
                             </div>
+                            
                               <div class="item gif  text-center" >
                                         <div class="gif_text">
                                           <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
                                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
-                					<img src="assets/img/profile.jpg" alt="" />
+                					<img src="assets/img/author1.png" alt="" />
                 				  </div>
                                   <div class="author_item">
                 					<span>Jonh Web
@@ -1151,11 +1153,11 @@
                                
 <div class="item gif  text-center" >
                                         <div class="gif_text">
-                                          <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
+                                          <p class=" text-justify pt-4  pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
                                                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                                   <div class="profile_img flote-left">
-                                    <img src="assets/img/profile.jpg" alt="" />
+                                    <img src="assets/img/author1.png" alt="" />
                                   </div>
                                   <div class="author_item">
                                     <span>Jonh Web
