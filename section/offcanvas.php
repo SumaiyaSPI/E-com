@@ -121,15 +121,12 @@
                         </div>
                         <div id="menu" class="text-left ">
                             <ul class="offcanvas_main_menu">
-                                <li class="menu-item-has-children active">
-                                    <a href="#">Home</a>
-                                    <ul class="sub-menu">
-                                        <li><a href="index.html">Home 1</a></li>
-                                        <li><a href="index-2.html">Home 2</a></li>
-                                        <li><a href="index-3.html">Home 3</a></li>
-                                        <li><a href="index-4.html">Home 4</a></li>
-                                        <li><a href="index-5.html">Home 5</a></li>
-                                        <li><a href="index-6.html">Home 6</a></li>
+                               <li class="menu-item-has-children active">
+                                    <a href="index.php">Home</a>
+                                <ul class="sub-menu">
+                                      <li><a href="catagoryProducts.php">Catagory Page</a></li>
+                                    <li><a href="singleProduct.php">Product Single Page</a></li>
+                                    <li><a href="dashboard.php">Dashboard</a></li>
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
@@ -138,12 +135,14 @@
                                         <li class="menu-item-has-children">
                                             <a href="#">Shop Layouts</a>
                                             <ul class="sub-menu">
-                                                <li><a href="shop.html">shop</a></li>
-                                                <li><a href="shop-fullwidth.html">Full Width</a></li>
-                                                <li><a href="shop-fullwidth-list.html">Full Width list</a></li>
-                                                <li><a href="shop-right-sidebar.html">Right Sidebar </a></li>
-                                                <li><a href="shop-right-sidebar-list.html"> Right Sidebar list</a></li>
-                                                <li><a href="shop-list.html">List View</a></li>
+                                                <li><a href="#">Shop Layouts</a>
+                                                                                                            </li>
+                                                    <li><a href="#">other Pages</a>
+                                                      
+                                                    </li>
+                                                    <li><a href="#">Product Types</a>
+                                                        
+                                                    </li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
@@ -169,30 +168,30 @@
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="#">blog</a>
-                                    <ul class="sub-menu">
+                                    <a href="blog.html">blog</a>
+                                    <!--<ul class="sub-menu">
                                         <li><a href="blog.html">blog</a></li>
                                         <li><a href="blog-details.html">blog details</a></li>
                                         <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
                                         <li><a href="blog-sidebar.html">blog sidebar</a></li>
                                         <li><a href="blog-no-sidebar.html">blog no sidebar</a></li>
-                                    </ul>
+                                    </ul>-->
 
                                 </li>
                                 <li class="menu-item-has-children">
                                     <a href="#">pages </a>
-                                    <ul class="sub-menu">
+                                   <!-- <ul class="sub-menu">
                                         <li><a href="about.html">About Us</a></li>
                                         <li><a href="faq.html">Frequently Questions</a></li>
                                         <li><a href="privacy-policy.html">privacy policy</a></li>
                                         <li><a href="contact.html">contact</a></li>
                                         <li><a href="login.html">login</a></li>
                                         <li><a href="404.html">Error 404</a></li>
-                                    </ul>
+                                    </ul>-->
                                 </li>
-                                <li class="menu-item-has-children">
+                                <!--<li class="menu-item-has-children">
                                     <a href="my-account.html">my account</a>
-                                </li>
+                                </li>-->
                                 <li class="menu-item-has-children">
                                     <a href="about.html">About Us</a>
                                 </li>
@@ -209,6 +208,11 @@
                                 <li class="pinterest"><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                                 <li class="google-plus"><a href="#"><i class="fa fa-google-plus"></i></a></li>
                                 <li class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+
+
+
+
+                                  
                             </ul>
                         </div>
                     </div>
