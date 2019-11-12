@@ -118,7 +118,8 @@
                     </div>
                 </div>
             </div>
-            <div class="footer-note col-lg-12 text-center mt-5" style="color:grey">
+            <div class="footer-note col-lg-12 text-center mt-5" style="color:grey;
+    font-size: 13px;">
             <a href="">Privacy Notice</a> | <a href="">CA Privacy Rights</a> | <a href="">Legal Notice</a> | <a href="">Customer Bill of Rights</a> | <a href="">CA Transparency in Supply Chains</a> | <a href="">Product Recalls</a> | <a href="">Pricing Policy</a> | <a href="">Site Map</a>
             <p class="copyright">Copyright &copy; 2019 <a href="#">d7b</a> All Right Reserved</p>
             <p class="developed-by">Develop by <strong>Smart Software Ltd.</strong></p>

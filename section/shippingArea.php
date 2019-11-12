@@ -4,7 +4,7 @@
 
                 <div class="col-lg-3 col-md-3 col-12 ">
                    <div class="col-shipping-box border">
-                    <div class="shipping_content pl-4 pb-4 pt-4">
+                    <div class="shipping_content pl-4 ppb-4 ppt-4">
 					<i class="fa fa-id-card-o float-left pr-4 fa-2x" aria-hidden="true"></i>
 
                         <h4 class="pt-1">Free Delivery</h4>
@@ -15,7 +15,7 @@
 			
                <div class="col-lg-3 col-md-3 col-12 ">
                    <div class="col-shipping-box border">
-                    <div class="shipping_content pl-4 pb-4 pt-4">
+                    <div class="shipping_content pl-4 ppb-4 ppt-4">
 					<i class="fa fa-id-card-o float-left pr-4 fa-2x" aria-hidden="true"></i>
 
                         <h4 class="pt-1">Free Delivery</h4>
@@ -26,7 +26,7 @@
 				
 				 <div class="col-lg-3 col-md-3 col-12 ">
                    <div class="col-shipping-box border">
-                    <div class="shipping_content pl-4 pb-4 pt-4">
+                    <div class="shipping_content pl-4 ppb-4 ppt-4">
 					<i class="fa fa-id-card-o float-left pr-4 fa-2x" aria-hidden="true"></i>
 
                         <h4 class="pt-1">Free Delivery</h4>
@@ -37,7 +37,7 @@
 				
 				 <div class="col-lg-3 col-md-3 col-12 ">
                    <div class="col-shipping-box border">
-                    <div class="shipping_content pl-4 pb-4 pt-4">
+                    <div class="shipping_content pl-4 ppb-4 ppt-4">
 					<i class="fa fa-id-card-o float-left pr-4 fa-2x" aria-hidden="true"></i>
 
                         <h4 class="pt-1">Free Delivery</h4>

@@ -257,7 +257,7 @@
                                 </div><!-- /.col -->
 
                                 <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none">
-                                    <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:51px;">
+                                    <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:53px;">
                                 </div>
 
                                 <div class="hidden-xs hidden-xs hidden-sm col-md-4 col-lg-4 col-sm-d-none">
@@ -539,7 +539,7 @@ Turbo System <i class="fa fa-angle-right"></i></a>
 
                                     <div class="search_box show">
                                         <input placeholder="Search or enter web ID" type="text">
-                                        <button type="submit"><i class="fa fa-search"></i></button>
+                                        <a href=""><button type="submit"><i class="fa fa-search"></i></button></a>
                                     </div>
                                 </form>
                             </div>

@@ -1078,7 +1078,7 @@
                             </div>
                         </figure>
                     </div>
-                    <div class="col"style="margin-left:12px;" >
+                    <div class="col"style="margin-left:-2px;" >
                         <div class="row">
                             <figure class="single_banner" style="height:100%;margin-top:-3px" >
                                 <div class="banner_thumb">
@@ -1116,13 +1116,14 @@
                 <div class="row">
              <div class="col-lg-4 col-md-4">
 					<h2 class="h1 pt-3" style="text-align:left">Testimonials</h2>
-                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/8-bg-client.jpg'); background-size: cover;width:100%;background-position: left;">
+                        <figure class="single_banner" style="background: #F5F5F9 url('assets/img/8-bg-client.jpg'); background-size: cover;width:94%;background-position: left;">
+
                         
 						<div class="owl-carousel owl-theme" >
                                     <div class="item gif  text-center" >
                                         <div class="gif_text">
                                           <p class=" text-justify pt-4 pb-5 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos  consectetur adipisicing elitArchitecto dignissimos  <i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
                 					<img src="assets/img/author1.png" alt="" />
@@ -1138,7 +1139,7 @@
                               <div class="item gif  text-center" >
                                         <div class="gif_text">
                                           <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
+                                               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos <i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
                 					<img src="assets/img/author1.png" alt="" />
@@ -1154,7 +1155,8 @@
 <div class="item gif  text-center" >
                                         <div class="gif_text">
                                           <p class=" text-justify pt-4  pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
+
                                         </p>
                                   <div class="profile_img flote-left">
                                     <img src="assets/img/author1.png" alt="" />
@@ -1199,7 +1201,7 @@
                                <span class="meta_date"> April 11, 2019 </span>
                              </div>
                            </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur </div>
                             <button class="btn btn-info">Read more</button>
                       </figure>
                    </article>
@@ -1226,7 +1228,7 @@
                                <span class="meta_date"> April 11, 2019 </span>
                              </div>
                            </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur</div>
                             <button class="btn btn-info">Read more</button>
                       </figure>
                    </article>
@@ -1237,7 +1239,7 @@
                        <div class="col-lg-4 col-md-6 ">
                       <article class="single_related article_one">
                         <figure>
-                          <div class="related_thumb mt-4">
+                          <div class="related_thumb mt-4 para ">
 
                         <a href=""><img src="assets/img/blog/blog7.jpg" alt=""></a>
                           <span class="label_product_category">Category</span>
@@ -1253,7 +1255,7 @@
                                <span class="meta_date"> April 11, 2019 </span>
                              </div>
                            </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur adipisicing</div>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur </div>
                             <button class="btn btn-info">Read more</button>
                       </figure>
                    </article>
