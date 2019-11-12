@@ -68,14 +68,14 @@
                 </div>
 
                 <div class="col-lg-3">
-                    <div class="widgets_container">
-                        <h3>GETt $10 Off</h3>
-                        <p>Sign up for Sales & Exclusive offers!</p>
+                    <div class="widgets_container footer-sign-up">
+                        <h3>GET $10 Off</h3>
+                        <p>Sign up for Sales & Exclusive offers! Don’t miss out!</p>
                         <div class="footer_contact">
                             <form action="#">
 
                                 <div class="search_box show footer-search-box">
-                                    <input placeholder="Enter Your Email....." type="text">
+                                    <input placeholder="Enter your email address.." type="text">
                                     <button type="submit"><i class="fa fa-caret-right" aria-hidden="true"></i>
 </button>
                                 </div>
@@ -91,6 +91,7 @@
 
                                 <li><img src="assets/img/payments/payment-skrill.png" alt="" class="payments-img" /></li>
                                 <li><img src="assets/img/payments/payment-paypal.png" alt="" class="payments-img" /></li>
+                                 <li><img src="assets/img/payments/payment-paypal.png" alt="" class="payments-img" /></li>
                             </ul>
                         </div>
                     </div>
@@ -102,7 +103,7 @@
                         <h3>Instagram</h3>
                         <div class="footer_contact">
                             <div class="footer_contact_inner">
-                                <div class="contact_icone text-right mr-4">
+                                <div class="contact_icone text-left mr-4">
                                     <div class="EmbedBrokenMedia">
                                        <a href=""> <img src="assets/img/about/testimonial1.jpg" alt=""></a>
                                        <a href=""><img src="assets/img/about/testimonial2.jpg" alt=""></a> 
@@ -117,7 +118,8 @@
                     </div>
                 </div>
             </div>
-            <div class="footer-note col-lg-12 text-center mt-5" style="color:grey">
+            <div class="footer-note col-lg-12 text-center mt-5" style="color:grey;
+    font-size: 13px;">
             <a href="">Privacy Notice</a> | <a href="">CA Privacy Rights</a> | <a href="">Legal Notice</a> | <a href="">Customer Bill of Rights</a> | <a href="">CA Transparency in Supply Chains</a> | <a href="">Product Recalls</a> | <a href="">Pricing Policy</a> | <a href="">Site Map</a>
             <p class="copyright">Copyright &copy; 2019 <a href="#">d7b</a> All Right Reserved</p>
             <p class="developed-by">Develop by <strong>Smart Software Ltd.</strong></p>

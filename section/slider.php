@@ -5,18 +5,18 @@
     			<div class="s_banner col-lg-3 col-md-12">
     				<!--banner area start-->
     				<div class="sidebar_banner_area">
-    					<figure class="single_banner">
-    						<div class="banner_thumb mb-2">
+    					<figure class="single_banner ">
+    						<div class="banner_thumb mb-2 para-one">
     							<a href="shop.html"><img src="assets/img/bg/banner1.jpg" alt=""></a>
     						</div>
     					</figure>
-    					<figure class="single_banner">
-    						<div class="banner_thumb mb-2">
+    					<figure class="single_banner ">
+    						<div class="banner_thumb mb-2 para-one">
     							<a href="shop.html"><img src="assets/img/bg/banner2.jpg" alt=""></a>
     						</div>
     					</figure>
-    					<figure class="single_banner">
-    						<div class="banner_thumb">
+    					<figure class="single_banner ">
+    						<div class="banner_thumb para-one">
     							<a href="shop.html"><img src="assets/img/bg/banner3.jpg" alt=""></a>
     						</div>
     					</figure>

@@ -40,14 +40,14 @@ $(() => {
     $slides.first().addClass("active");
     $selectors.first().addClass("current");
 
-    interval = window.setInterval(cycle, 2000);
+    interval = window.setInterval(cycle, 5000);
 
     $selectors.on("click", e => {
         let target = $selectors.index(e.target);
         if (target !== currentIndex) {
             window.clearInterval(interval);
             cycle(target);
-            interval = window.setInteral(cycle, 1000);
+            interval = window.setInteral(cycle, 3000);
         }
     });
 
@@ -59,7 +59,7 @@ $(() => {
         } else if ($(e.target).hasClass("next")) {
             cycle();
         }
-        interval = window.setInterval(cycle, 1000);
+        interval = window.setInterval(cycle, 5000);
     });
 });
 // slider
@@ -1000,7 +1000,7 @@ $(document).ready(function(){
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 1500,
-        arrows: false,
+        arrows: true,
         dots: false,
         pauseOnHover: false,
         responsive: [{

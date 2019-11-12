@@ -37,14 +37,14 @@
                     <div class="row align-items-center">
                         <div class="col-lg-2 col-md-6 col-xs-12">
                             <div class="logo">
-                                <a href="#"><img src="assets/img/logo/logo.png" alt="" style="max-width:120%;"></a>
+                                <a href="index.php"><img src="assets/img/logo/logo.png" alt="" style="max-width:120%;"></a>
                             </div>
                         </div>
                         <div class="col-lg-8 col-md-12 col-xs-12 text-center ">
                             <div class="main_menu menu_position text-center">
                                 <nav>
                                     <ul>
-                                        <li><a href="/">home</a>
+                                        <li><a href="index.php">home</a>
                                             <ul class="sub_menu">
                                                 <li><a href="catagoryProducts.php">Catagory Page</a></li>
                                                 <li><a href="singleProduct.php">Product Single Page</a></li>
@@ -87,22 +87,22 @@
                                             </div>
                                         </li>
                                         <li><a href="blog.html">blog</a>
-                                            <ul class="sub_menu pages">
-                                                <!-- <li><a href="blog-details.html">blog details</a></li>
+                                              <!-- <ul class="sub_menu pages">
+                                              <li><a href="blog-details.html">blog details</a></li>
                                                 <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
                                                 <li><a href="blog-sidebar.html">blog sidebar</a></li>
-                                                <li><a href="blog-no-sidebar.html">blog no sidebar</a></li> -->
-                                            </ul>
+                                                <li><a href="blog-no-sidebar.html">blog no sidebar</a></li>
+                                            </ul> -->
                                         </li>
-                                        <li><a class="active" href="#">pages</a>
-                                            <ul class="sub_menu pages">
-                                                <!-- <li><a href="about.html">About Us</a></li>
+                                        <li><a class="#" href="#">pages</a>
+                                              <!-- <ul class="sub_menu pages">
+                                                <li><a href="about.html">About Us</a></li>
                                                 <li><a href="faq.html">Frequently Questions</a></li>
                                                 <li><a href="privacy-policy.html">privacy policy</a></li>
                                                 <li><a href="contact.html">contact</a></li>
                                                 <li><a href="login.html">login</a></li>
-                                                <li><a href="404.html">Error 404</a></li> -->
-                                            </ul>
+                                                <li><a href="404.html">Error 404</a></li> 
+                                            </ul>-->
                                         </li>
 
                                         <li><a href="about.html">About Us</a></li>
@@ -257,7 +257,7 @@
                                 </div><!-- /.col -->
 
                                 <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none">
-                                    <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:51px;">
+                                    <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:53px;">
                                 </div>
 
                                 <div class="hidden-xs hidden-xs hidden-sm col-md-4 col-lg-4 col-sm-d-none">
@@ -539,7 +539,7 @@ Turbo System <i class="fa fa-angle-right"></i></a>
 
                                     <div class="search_box show">
                                         <input placeholder="Search or enter web ID" type="text">
-                                        <button type="submit"><i class="fa fa-search"></i></button>
+                                        <a href=""><button type="submit"><i class="fa fa-search"></i></button></a>
                                     </div>
                                 </form>
                             </div>
