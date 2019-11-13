@@ -14,7 +14,7 @@
 
    <section class="customer-logos">
       <div class="slide"> 
-        <article class="single_product mt-3">
+        <article class="single_product mt-3 mb-4">
                                 <figure>
 
                                     <div class="product_thumb">

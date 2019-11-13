@@ -2,7 +2,7 @@
 
 <div class="home_section_bg">
         <div class="product_area deals_product">
-            <div class="container">
+            <div class="para-six">
                 <div class="row">
                     <div class="col-12 col-md-12 offset-md-3">
                         <div class="product_header">
@@ -1138,8 +1138,8 @@
                             
                               <div class="item gif  text-center" >
                                         <div class="gif_text">
-                                          <p class=" text-justify pt-4 pb-4 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                                               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos <i class="fa fa-quote-right" aria-hidden="true"></i>
+                                          <p class=" text-justify pt-4 pb-5 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
+                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos  consectetur adipisicing elitArchitecto dignissimos  <i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                 				  <div class="profile_img flote-left">
                 					<img src="assets/img/author1.png" alt="" />
@@ -1154,9 +1154,9 @@
                                
 <div class="item gif  text-center" >
                                         <div class="gif_text">
-                                          <p class=" text-justify pt-4  pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
-                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos dignissimos<i class="fa fa-quote-right" aria-hidden="true"></i>
 
+                                         <p class=" text-justify pt-4 pb-5 pl-4 pr-4 "><i class="fa fa-quote-left" aria-hidden="true"></i> 
+                                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos non rerum tempora voluptas. fdff sdfdf dsfdf Atque cum eaque modi sed vitae!Lorem ipsum dolor sit amet, cdsfdf sdfdf sdfdsf sdfdsfdf onsectetur adipisicing elit. Architecto dignissimos Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto dignissimos  consectetur adipisicing elitArchitecto dignissimos  <i class="fa fa-quote-right" aria-hidden="true"></i>
                                         </p>
                                   <div class="profile_img flote-left">
                                     <img src="assets/img/author1.png" alt="" />
@@ -1201,7 +1201,7 @@
                                <span class="meta_date"> April 11, 2019 </span>
                              </div>
                            </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur </div>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor</div>
                             <button class="btn btn-info">Read more</button>
                       </figure>
                    </article>
@@ -1228,7 +1228,7 @@
                                <span class="meta_date"> April 11, 2019 </span>
                              </div>
                            </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur</div>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor</div>
                             <button class="btn btn-info">Read more</button>
                       </figure>
                    </article>
@@ -1255,7 +1255,7 @@
                                <span class="meta_date"> April 11, 2019 </span>
                              </div>
                            </figcaption>
-                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor sit amet, consectetur </div>
+                            <div class="short_note">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque, magnam?Lorem ipsum dolor</div>
                             <button class="btn btn-info">Read more</button>
                       </figure>
                    </article>
@@ -1263,11 +1263,11 @@
                     </div>
                 </div>
 
-                <a class="carousel-control-prev" href="#slider-1" role="button" data-slide="prev">
+                <a class="carousel-control-prev para-five" href="#slider-1" role="button" data-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="sr-only">Previous</span>
                 </a>
-                <a class="carousel-control-next" href="#slider-1" role="button" data-slide="next">
+                <a class="carousel-control-next para-five" href="#slider-1" role="button" data-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="sr-only">Next</span>
                 </a>
