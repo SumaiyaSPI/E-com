@@ -1,7 +1,9 @@
     <div class="categories_product_area">
        <div class="container">
             <div class="categories_product_inner">
+
                 <h3 class="text-center" style="font-size: 24px;  font-weight: 600;letter-spacing: .2px;    margin-bottom: .5rem;">FROM GALLERY</h3>
+
                   <p class="text-center time-to mb-10">Time to shop special</p>
                 <div class="single_categories_product" style="background: url('assets/img/bg/person.jpg'); background-size:cover;">
                     <div class="categories_product_content text-center">
