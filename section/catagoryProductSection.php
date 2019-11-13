@@ -134,7 +134,13 @@
                                                     <option value="BEST_SELLERS">Best Sellers</option>
                                                     <option value="NEW_ITEMS">New Arrivals</option>
                                 </select>
-                            </div>   
+                            </div> 
+
+                            <div class="grid-list float-right">
+                                <a href=""><i class="fa fa-th-large" aria-hidden="true"></i></a>
+                                  <a href=""><i class="fa fa-list" aria-hidden="true"></i>
+</a>
+                            </div>  
                         </div>
                         
                        <div class="row no-gutters shop_wrapper">

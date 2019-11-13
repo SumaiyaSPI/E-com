@@ -537,7 +537,7 @@ Turbo System <i class="fa fa-angle-right"></i></a>
 								  
 								  
 
-                                    <div class="search_box show">
+                                    <div class="search_box show last-day-7">
                                         <input placeholder="Search or enter web ID" type="text">
                                         <a href=""><button type="submit"><i class="fa fa-search"></i></button></a>
                                     </div>
