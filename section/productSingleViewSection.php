@@ -21,12 +21,13 @@
                                     <zoom-on-hover v-bind="product.images" :scale="2"></zoom-on-hover>
                                     <!-- <img id="zoom1" src="assets/img/product/productbig5.jpg" data-zoom-image="assets/img/product/productbig5.jpg" alt="big-1"> -->
                                 </a>
-                                <div class="product_options">
-                                    <span class="btn" style="width:40%"><i class="fa fa-puzzle-piece"></i> Embroidery &amp; Print</span>
-                                    <span class="btn" style="width:15%"><i class="fa fa-play"></i> Video</span>
-                                    <span class="btn" style="width:45%"><i class="fa fa-thumb-tack"></i> Article recommendation</span>
-                                </div>
+                                
                             </div>
+                            <div class="product_options mt-5 ml-5">
+                                    <span class="btn last-day2" style="width:30%" style=""><i class="fa fa-puzzle-piece"></i> Embroidery &amp; Print</span>
+                                    <span class="btn" style="width:15%"><i class="fa fa-play"></i> Video</span>
+                                    <span class="btn" style="width:35%"><i class="fa fa-thumb-tack"></i> Article recommendation</span>
+                                </div>
                         </div>
                     </div>
                 </div>
@@ -49,10 +50,10 @@
                             <div class="product_variant color">
                                 <ul>
                                     <li class="color1">
-                                        <a href="#"></a>
+                                        <a href="#" data-toggle="tooltip" title="Black"></a>
                                     </li>
                                     <li class="color2">
-                                        <a href="#"></a>
+                                        <a href="#" data-toggle="tooltip" title="Gray"></a>
                                     </li>
                                     <li class="color3">
                                         <a href="#"></a>
@@ -117,7 +118,7 @@
                                 <hr style="">
                                 <ul id="product_size">
                                     <li class="selected">
-                                        <a href="#">XS</a>
+                                        <a href="#" data-toggle="tooltip" title="XS">XS</a>
                                     </li>
                                     <li>
                                         <a href="#">S</a>

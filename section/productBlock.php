@@ -1,6 +1,6 @@
 
 
- <article class="single_product mt-3">
+ <article class="single_product mt-3 last-day-12">
                                 <figure>
 
                                     <div class="product_thumb">
