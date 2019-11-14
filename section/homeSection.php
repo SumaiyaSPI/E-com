@@ -1088,7 +1088,7 @@
                         </div>
 
                         <div class="row">
-                            <figure class="single_banner" style="margin-top:8px">
+                            <figure class="single_banner last-day-10">
                                 <div class="banner_thumb">
                                     <a href="shop.html">
                                         <img width="400px" height="100%" class="banner-area-img-b" src="https://www.portotheme.com/wordpress/porto/shop7/wp-content/uploads/sites/60/2016/06/grid19.jpg" alt=""></a>

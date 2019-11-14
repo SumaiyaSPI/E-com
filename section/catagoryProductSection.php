@@ -126,7 +126,7 @@
                         <div class="item-200">
                             <span style="color:red">220</span> items in <span style="text-decoration: bold;color:red;font-size:.5em">Leggings &amp; Pants</span>
                             <div style="font-size:.5em;margin-top: .5em;">Sort by 
-                                <select class="ml-5" id="sortBy" title="sortBy">
+                                <select class="aml-5" id="sortBy" title="sortBy">
                                                     <option value="ORIGINAL" selected="selected">Featured Items</option>
                                                     <option value="PRICE_LOW_TO_HIGH">Price: Low to High</option>
                                                     <option value="PRICE_HIGH_TO_LOW">Price: High to Low</option>

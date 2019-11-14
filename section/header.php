@@ -181,6 +181,7 @@
                 <!--header middel end-->
                 <!--header middel end-->
 
+
                 <div class="header_middle sticky-header second d-none sticky d-none">
                     <nav class="top-bar animate-dropdown fixed-icon" style="padding-top: 5px;">
                         <div class="container magicmenu clearfix ">
@@ -244,11 +245,11 @@
                                             </nav>
                                         </div>
 
-                                        <div class="col-md-8 col-sm-12 col-lg-8 col-xs-12 search-top">
+                                        <div class="col-md-8 col-sm-12 col-lg-8 col-xs-12 search-top ">
                                             <form action="" class="input-icons ml-3">
 
                                                 <input class="input-field header-search top-search" type="text" name="search" placeholder="Search">
-                                                <i class="btn fa fa-search icon" style=""></i>
+                                               <i class="btn fa fa-search icon" style=""></i>
                                             </form>
                                         </div>
 
@@ -256,7 +257,9 @@
                                     </div>
                                 </div><!-- /.col -->
 
-                                <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none">
+                                <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none
+                                last-13">
+
                                     <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:53px;">
                                 </div>
 
