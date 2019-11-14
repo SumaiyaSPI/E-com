@@ -1,4 +1,5 @@
-/*Shams*/
+/*S
+*/
 
 .ppb-4{
     padding-bottom: 1.3rem!important;
@@ -343,7 +344,8 @@ height: 279px !important;
 }
 
 
-/*Shams End*/
+/*S
+End*/
 
 .btn-primary:hover {
     background: #35999e;
@@ -5348,6 +5350,7 @@ height: 36px;
     -webkit-box-shadow: 0px 0px 13.5px .8px rgba(0, 0, 0, 0.3);
     -moz-box-shadow: 0px 0px 13.5px .8px rgba(0, 0, 0, 0.3);
     box-shadow: 0px 0px 13.5px .8px rgba(0, 0, 0, 0.3);
+
 }
 
 .single_product:hover .product_thumb a.secondary_img {
@@ -5398,6 +5401,9 @@ height: 36px;
     text-align: center;
     margin-top: -2px;
     margin-left: 1px;
+
+  
+
 }
 
 .product_content h4 {
@@ -13486,9 +13492,6 @@ padding-left: 6px;
     color: white;
 }
 
-/*.categories_title:hover.categories_title::before {
-    color: white;
-}*/
 .col-shipping-box{margin-top: 6px;}
 .col-shipping-box i {
     margin-top: 10px;
@@ -14011,6 +14014,7 @@ max-width: 72.5%
 
 @media only screen and (max-width: 360px) {
     .product_tab_btn h3{margin-left: -94px;}
+
     .product_tab_btn p{ margin-right: 87px;}
     .new-mar-pad {
         margin-left: 1em;
@@ -14178,6 +14182,7 @@ max-width: 72.5%
     .carousel-control-next, .carousel-control-prev{width: 6%;}
     #slides .slide .slide-left img {right: 0px;}
     .offset-md-3 {margin-left: 0%;}
+
     .label_product_left span.label_sale_left{left:40px;}
     .label_product span.label_sale{right:40px;}
     .last-day-10{margin-top:-5px!important;}
@@ -14239,6 +14244,7 @@ max-width: 72.5%
 }
 .para-three .col-lg-8{
  flex: 0 0 66.666667%;
+
 max-width: 66.667%;
 }
 .offset-md-3 {

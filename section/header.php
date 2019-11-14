@@ -259,6 +259,7 @@
 
                                 <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none
                                 last-13">
+
                                     <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:53px;">
                                 </div>
 
