@@ -72,8 +72,10 @@
 
                                     <div class="product_thumb last-day-11"> 
 
+
                                         <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/3.jpg" alt=""></a>
                                         <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/4.jpg" alt=""></a>
+
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -126,6 +128,7 @@
 
                                         <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/5.jpg" alt=""></a>
                                         <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/6.jpg" alt=""></a>
+
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -174,9 +177,11 @@
                                 <figure>
 
                                     <div class="product_thumb last-day-11"> 
+
 
                                         <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/7.jpg" alt=""></a>
                                         <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/8.jpg" alt=""></a>
+
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -226,9 +231,11 @@
                                 <figure>
 
                                     <div class="product_thumb last-day-11"> 
+
 
                                         <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/9.jpg" alt=""></a>
                                         <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/10.jpg" alt=""></a>
+
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -279,8 +286,10 @@
 
                                     <div class="product_thumb last-day-11"> 
 
+
                                         <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/5.jpg" alt=""></a>
                                         <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/6.jpg" alt=""></a>
+
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
@@ -383,8 +392,10 @@
 
                                     <div class="product_thumb last-day-11"> 
 
+
                                         <a class="primary_img" href="product-countdown.html"><img src="assets/img/product/7.jpg" alt=""></a>
                                         <a class="secondary_img" href="product-countdown.html"><img src="assets/img/product/8.jpg" alt=""></a>
+
                                         <div class="label_product_left label_product">
                                             <span class="label_sale_left">New</span>
                                         </div>
