@@ -168,7 +168,7 @@
                                     </ul>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="blog.html">blog</a>
+                                    <a href="blog.php">blog</a>
                                     <!--<ul class="sub-menu">
                                         <li><a href="blog.html">blog</a></li>
                                         <li><a href="blog-details.html">blog details</a></li>
@@ -193,10 +193,10 @@
                                     <a href="my-account.html">my account</a>
                                 </li>-->
                                 <li class="menu-item-has-children">
-                                    <a href="about.html">About Us</a>
+                                    <a href="about.php">About Us</a>
                                 </li>
                                 <li class="menu-item-has-children">
-                                    <a href="contact.html"> Contact Us</a>
+                                    <a href="contact.php"> Contact Us</a>
                                 </li>
                             </ul>
                         </div>

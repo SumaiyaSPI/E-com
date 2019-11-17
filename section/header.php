@@ -86,7 +86,7 @@
                                                 </ul>
                                             </div>
                                         </li>
-                                        <li><a href="blog.html">blog</a>
+                                        <li><a href="blog.php">blog</a>
                                               <!-- <ul class="sub_menu pages">
                                               <li><a href="blog-details.html">blog details</a></li>
                                                 <li><a href="blog-fullwidth.html">blog fullwidth</a></li>
@@ -105,8 +105,8 @@
                                             </ul>-->
                                         </li>
 
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="contact.html"> Contact Us</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="contact.php"> Contact Us</a></li>
                                     </ul>
                                 </nav>
                             </div>
@@ -181,11 +181,12 @@
                 <!--header middel end-->
                 <!--header middel end-->
 
+
                 <div class="header_middle sticky-header second d-none sticky d-none">
                     <nav class="top-bar animate-dropdown fixed-icon" style="padding-top: 5px;">
                         <div class="container magicmenu clearfix ">
                             <div class="row">
-                                <div class="col-xs-12 col-sm-4 col-lg-5 col-md-6 no-margin hidden-xs">
+                                <div class="col-xs-12 col-sm-4 col-lg-5 col-md-5 no-margin hidden-xs">
                                     <div class="row clearfix">
 
                                         <div class="col-md-2 col-sm-4 col-lg-2 offset-1 sticky_menu_section">
@@ -244,11 +245,11 @@
                                             </nav>
                                         </div>
 
-                                        <div class="col-md-8 col-sm-12 col-lg-8 col-xs-12 search-top">
+                                        <div class="col-md-8 col-sm-12 col-lg-8 col-xs-12 search-top ">
                                             <form action="" class="input-icons ml-3">
 
                                                 <input class="input-field header-search top-search" type="text" name="search" placeholder="Search">
-                                                <i class="btn fa fa-search icon" style=""></i>
+                                               <i class="btn fa fa-search icon" style=""></i>
                                             </form>
                                         </div>
 
@@ -256,11 +257,12 @@
                                     </div>
                                 </div><!-- /.col -->
 
-                                <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none">
+                                <div class="hidden-xs hidden-sm col-md-2 col-lg-2 text-center col-sm-d-none
+                                last-13">
                                     <img class="header-fixed-logo" src="assets/img/logo/companyIcon.png" alt="" style=" margin-top:3px; width:53px;">
                                 </div>
 
-                                <div class="hidden-xs hidden-xs hidden-sm col-md-4 col-lg-4 col-sm-d-none">
+                                <div class="hidden-xs hidden-xs hidden-sm col-md-5 col-lg-4 col-sm-d-none">
                                     <ul class="right">
 
                                         <li>
@@ -554,7 +556,7 @@ Turbo System <i class="fa fa-angle-right"></i></a>
                                             <div class="categories_market_second">
                                                 <p class="categori_toggle font-weight-bold ">My Market</p>
                                             </div>
-                                            <div class="categories_market_toggle">
+                                           <!-- <div class="categories_market_toggle">
                                                 <ul>
                                                     <li class="menu_item_children"><a href="#">Brake Parts </a>
                                                     </li>
@@ -580,7 +582,7 @@ Turbo System <i class="fa fa-angle-right"></i></a>
 
                                                     </li>
                                                 </ul>
-                                            </div>
+                                            </div>-->
                                         </div>
                                     </div>
                                 </div>
